@@ -37,7 +37,29 @@
       "关键能力变化 +4",
       "明确事件词 +2"
     ],
-    "status": "pending"
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
+  },
+  {
+    "id": "p48-cue-5146917b",
+    "productSlug": "p48-cue",
+    "productName": "Cue（Manus）",
+    "title": "Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶 - 极客公园",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FWjdKdEtKZ1NZWUZWTWZ3bzNZVHpabENLQUdleURnZWVoVzY0S3hKN1IzRkxkbzhqbzhJdFExTFNoWTJlbXZRRjR4aDk?oc=5",
+    "sourceLabel": "极客公园",
+    "sourceType": "media",
+    "publishedAt": "2026-09-29T05:32:16.000Z",
+    "discoveredAt": "2026-10-05T08:53:48.089Z",
+    "score": 12,
+    "reasons": [
+      "产品发布或停止运营 +6",
+      "关键能力变化 +4",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
   },
   {
     "id": "p02-workbuddy-ed80ecae",
@@ -156,7 +178,9 @@
       "产品发布或停止运营 +6",
       "明确事件词 +2"
     ],
-    "status": "pending"
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
   },
   {
     "id": "p12-codex-open-ai-19ed9a4e",
@@ -670,7 +694,9 @@
       "关键能力变化 +4",
       "明确事件词 +2"
     ],
-    "status": "pending"
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：事件可能相关，但信源或事件强度仍需复核"
   },
   {
     "id": "p12-codex-open-ai-85cade8b",
@@ -687,7 +713,28 @@
       "关键能力变化 +4",
       "明确事件词 +2"
     ],
-    "status": "pending"
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：事件可能相关，但信源或事件强度仍需复核"
+  },
+  {
+    "id": "p47-openai-dots-5b34865f",
+    "productSlug": "p47-openai-dots",
+    "productName": "OpenAI Dots",
+    "title": "OpenAI 推出新版 Codex Cloud，Agents API 开放预览并支持 computer use",
+    "sourceUrl": "https://x.com/thsottiaux/status/2104987594719461796",
+    "sourceLabel": "X：Tibo (@thsottiaux)",
+    "sourceType": "media",
+    "publishedAt": "2026-09-29T17:32:06.000Z",
+    "discoveredAt": "2026-10-05T08:54:36.505Z",
+    "score": 6,
+    "reasons": [
+      "关键能力变化 +4",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
   },
   {
     "id": "p12-codex-open-ai-e460a31f",
@@ -704,7 +751,9 @@
       "关键能力变化 +4",
       "明确事件词 +2"
     ],
-    "status": "pending"
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
   },
   {
     "id": "p11-amazon-quick-aws-b52e73c",
@@ -721,7 +770,9 @@
       "关键能力变化 +4",
       "明确事件词 +2"
     ],
-    "status": "pending"
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
   },
   {
     "id": "p12-codex-open-ai-c4263050",
@@ -738,7 +789,9 @@
       "关键能力变化 +4",
       "明确事件词 +2"
     ],
-    "status": "pending"
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
   },
   {
     "id": "p44-openclaw-698ecc9d",
@@ -755,7 +808,48 @@
       "关键能力变化 +4",
       "明确事件词 +2"
     ],
-    "status": "pending"
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
+  },
+  {
+    "id": "p47-openai-dots-e0c40c8c",
+    "productSlug": "p47-openai-dots",
+    "productName": "OpenAI Dots",
+    "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新",
+    "sourceUrl": "https://openai.com/index/devday-2026-recap",
+    "sourceLabel": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "sourceType": "media",
+    "publishedAt": "2026-09-29T10:00:00.000Z",
+    "discoveredAt": "2026-10-05T08:54:36.505Z",
+    "score": 6,
+    "reasons": [
+      "关键能力变化 +4",
+      "明确事件词 +2"
+    ],
+    "status": "accepted_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：官方一手信源且产品关联明确"
+  },
+  {
+    "id": "p48-cue-ffa2d4e0",
+    "productSlug": "p48-cue",
+    "productName": "Cue（Manus）",
+    "title": "Manus 推出 Manus 2.0 和个人 Agent 应用 Cue",
+    "sourceUrl": "https://mp.weixin.qq.com/s/18cIG3kJNLNgR4Gv5tdNgA",
+    "sourceLabel": "AI工具集 / APPSO",
+    "sourceType": "media",
+    "discoverySource": "AI工具集",
+    "publishedAt": "2026-09-29T00:00:00.000Z",
+    "discoveredAt": "2026-10-05T08:54:47.121Z",
+    "score": 6,
+    "reasons": [
+      "关键能力变化 +4",
+      "明确事件词 +2"
+    ],
+    "status": "accepted_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：可信媒体、产品关联明确且属于重大变化"
   },
   {
     "id": "p43-kimi-work-44b8ee1f",
@@ -1621,7 +1715,9 @@
       "商业或开放范围变化 +3",
       "明确事件词 +2"
     ],
-    "status": "pending"
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
   },
   {
     "id": "p12-codex-open-ai-acd801be",
@@ -1639,7 +1735,28 @@
       "商业或开放范围变化 +3",
       "明确事件词 +2"
     ],
-    "status": "pending"
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：事件可能相关，但信源或事件强度仍需复核"
+  },
+  {
+    "id": "p47-openai-dots-ce60974f",
+    "productSlug": "p47-openai-dots",
+    "productName": "OpenAI Dots",
+    "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
+    "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837#rd",
+    "sourceLabel": "公众号：数字生命卡兹克",
+    "sourceType": "media",
+    "publishedAt": "2026-09-29T21:47:43.000Z",
+    "discoveredAt": "2026-10-05T08:54:36.505Z",
+    "score": 5,
+    "reasons": [
+      "商业或开放范围变化 +3",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：事件可能相关，但信源或事件强度仍需复核"
   },
   {
     "id": "p12-codex-open-ai-331457d3",
@@ -1656,7 +1773,9 @@
       "商业或开放范围变化 +3",
       "明确事件词 +2"
     ],
-    "status": "pending"
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
   },
   {
     "id": "p44-openclaw-f587ff0",
@@ -1673,7 +1792,47 @@
       "商业或开放范围变化 +3",
       "明确事件词 +2"
     ],
-    "status": "pending"
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
+  },
+  {
+    "id": "p47-openai-dots-4ffadca7",
+    "productSlug": "p47-openai-dots",
+    "productName": "OpenAI Dots",
+    "title": "Every 实测 OpenAI DevDay 2026：20 多项发布与上手体验",
+    "sourceUrl": "https://every.to/vibe-check/vibe-check-openai-devday-2026",
+    "sourceLabel": "Every：最新文章（网页）",
+    "sourceType": "media",
+    "publishedAt": "2026-09-29T00:00:00.000Z",
+    "discoveredAt": "2026-10-05T08:54:36.505Z",
+    "score": 5,
+    "reasons": [
+      "商业或开放范围变化 +3",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
+  },
+  {
+    "id": "p49-grok-team-bots-95a88f92",
+    "productSlug": "p49-grok-team-bots",
+    "productName": "Grok Team Bots（xAI）",
+    "title": "Every 实测 OpenAI DevDay 2026：20 多项发布与上手体验",
+    "sourceUrl": "https://every.to/vibe-check/vibe-check-openai-devday-2026",
+    "sourceLabel": "Every：最新文章（网页）",
+    "sourceType": "media",
+    "publishedAt": "2026-09-29T00:00:00.000Z",
+    "discoveredAt": "2026-10-05T08:54:37.750Z",
+    "score": 5,
+    "reasons": [
+      "商业或开放范围变化 +3",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
   },
   {
     "id": "p11-amazon-quick-aws-f492ee7e",
@@ -1690,7 +1849,9 @@
       "商业或开放范围变化 +3",
       "明确事件词 +2"
     ],
-    "status": "pending"
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
   },
   {
     "id": "p09-marvis-d3f6750c",

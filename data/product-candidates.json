@@ -1,5 +1,62 @@
 [
   {
+    "id": "new-product-6b175275",
+    "title": "Yellow.ai推出Nexus EDGE桌面智能体 - 搜狐网",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMGc2aTNOV1hMUVhHbm8tb2ViYUZxX2k3X1FPR2tmYUZHRlJtbjc3N0s1QVVlNDNVREI4YVFWLW1MNldiQmtRczRqM3RIRExQZks0LXZlOHJrcGZ4NzFHbi1zLWJFT0x3ZXl2ZDYzejQzaGExRTI1RkV1N0h0RXN1SXRqS21xVy13X1dHUQ?oc=5",
+    "sourceLabel": "搜狐网",
+    "sourceType": "media",
+    "publishedAt": "2026-10-03T02:45:11.000Z",
+    "discoveredAt": "2026-10-05T08:53:48.869Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-a693cc0c",
+    "title": "Yellow.ai推出Nexus EDGE桌面智能体 - 搜狐网",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tcmlEbTBGdGwwZnJkQjgwcmxZSXVZTjRMa2drenI3NVF3NzFMbWVjd0N5Y25NOVpOZjY0NnYxT1dlU1cxSFhVMXdKN195VUJTb1IxYjFpSk1NZWRLc3k5Tw?oc=5",
+    "sourceLabel": "搜狐网",
+    "sourceType": "media",
+    "publishedAt": "2026-10-03T02:45:00.000Z",
+    "discoveredAt": "2026-10-05T08:53:48.869Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-91fb576e",
+    "title": "Modal 正式发布 VM Sandboxes：给 Agent 一台完整的 Linux 虚拟机",
+    "sourceUrl": "https://modal.com/blog/vm-sandboxes-agent-computers",
+    "sourceLabel": "Modal 官方工程博客（RSS）",
+    "sourceType": "media",
+    "publishedAt": "2026-10-01T00:00:00.000Z",
+    "discoveredAt": "2026-10-05T08:54:39.236Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 8,
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
     "id": "new-product-3250ac51",
     "title": "腾讯入局Personal Agent赛道:代号\"Handy Bot\"，已在微信低调内测",
     "sourceUrl": "https://news.aibase.com/zh/news/31426",
@@ -8,13 +65,16 @@
     "discoverySource": "AIBase",
     "publishedAt": "2026-09-30T01:29:38.000Z",
     "discoveredAt": "2026-10-01T05:38:18.530Z",
-    "status": "pending",
+    "status": "accepted_auto",
     "reviewChecklist": [
       "确认它是独立产品而非普通功能",
       "确认属于研究范围",
       "找到官方一手信源",
       "补充厂商、类型与官网"
-    ]
+    ],
+    "score": 5,
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：可信媒体确认，且新产品与重大变化信号明确"
   },
   {
     "id": "new-product-b537357a",
@@ -25,13 +85,16 @@
     "discoverySource": "AI工具集",
     "publishedAt": "2026-09-30T00:00:00.000Z",
     "discoveredAt": "2026-10-01T05:38:18.538Z",
-    "status": "pending",
+    "status": "deferred_auto",
     "reviewChecklist": [
       "确认它是独立产品而非普通功能",
       "确认属于研究范围",
       "找到官方一手信源",
       "补充厂商、类型与官网"
-    ]
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
   },
   {
     "id": "new-product-19f82769",
@@ -41,13 +104,16 @@
     "sourceType": "media",
     "publishedAt": "2026-09-29T17:36:13.593Z",
     "discoveredAt": "2026-10-01T05:38:06.157Z",
-    "status": "pending",
+    "status": "accepted_auto",
     "reviewChecklist": [
       "确认它是独立产品而非普通功能",
       "确认属于研究范围",
       "找到官方一手信源",
       "补充厂商、类型与官网"
-    ]
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：官方一手信源确认新 Agent 产品或独立入口"
   },
   {
     "id": "new-product-e9b8473c",
@@ -57,13 +123,16 @@
     "sourceType": "media",
     "publishedAt": "2026-09-29T17:32:06.000Z",
     "discoveredAt": "2026-10-01T05:38:06.157Z",
-    "status": "pending",
+    "status": "deferred_auto",
     "reviewChecklist": [
       "确认它是独立产品而非普通功能",
       "确认属于研究范围",
       "找到官方一手信源",
       "补充厂商、类型与官网"
-    ]
+    ],
+    "score": 6,
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
   },
   {
     "id": "new-product-162903d",
@@ -73,13 +142,16 @@
     "sourceType": "media",
     "publishedAt": "2026-09-29T10:00:00.000Z",
     "discoveredAt": "2026-10-01T05:38:06.157Z",
-    "status": "pending",
+    "status": "accepted_auto",
     "reviewChecklist": [
       "确认它是独立产品而非普通功能",
       "确认属于研究范围",
       "找到官方一手信源",
       "补充厂商、类型与官网"
-    ]
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：官方一手信源确认新 Agent 产品或独立入口"
   },
   {
     "id": "new-product-46fac738",
@@ -90,13 +162,16 @@
     "discoverySource": "AI工具集",
     "publishedAt": "2026-09-29T00:00:00.000Z",
     "discoveredAt": "2026-10-01T05:38:18.538Z",
-    "status": "pending",
+    "status": "deferred_auto",
     "reviewChecklist": [
       "确认它是独立产品而非普通功能",
       "确认属于研究范围",
       "找到官方一手信源",
       "补充厂商、类型与官网"
-    ]
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
   },
   {
     "id": "new-product-340be46e",
@@ -146,13 +221,16 @@
     "sourceType": "media",
     "publishedAt": "2026-09-28T00:00:00.000Z",
     "discoveredAt": "2026-10-01T05:38:06.157Z",
-    "status": "pending",
+    "status": "accepted_auto",
     "reviewChecklist": [
       "确认它是独立产品而非普通功能",
       "确认属于研究范围",
       "找到官方一手信源",
       "补充厂商、类型与官网"
-    ]
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：官方一手信源确认新 Agent 产品或独立入口"
   },
   {
     "id": "new-product-905eef9f",
@@ -162,13 +240,16 @@
     "sourceType": "media",
     "publishedAt": "2026-09-27T16:00:00.000Z",
     "discoveredAt": "2026-10-01T05:38:06.157Z",
-    "status": "pending",
+    "status": "deferred_auto",
     "reviewChecklist": [
       "确认它是独立产品而非普通功能",
       "确认属于研究范围",
       "找到官方一手信源",
       "补充厂商、类型与官网"
-    ]
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
   },
   {
     "id": "new-product-9a81f40",
@@ -178,13 +259,16 @@
     "sourceType": "media",
     "publishedAt": "2026-09-25T12:03:50.000Z",
     "discoveredAt": "2026-10-01T05:38:06.157Z",
-    "status": "pending",
+    "status": "deferred_auto",
     "reviewChecklist": [
       "确认它是独立产品而非普通功能",
       "确认属于研究范围",
       "找到官方一手信源",
       "补充厂商、类型与官网"
-    ]
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
   },
   {
     "id": "new-product-ace36e08",
@@ -213,13 +297,16 @@
     "sourceType": "media",
     "publishedAt": "2026-09-24T17:13:23.694Z",
     "discoveredAt": "2026-10-01T05:38:06.157Z",
-    "status": "pending",
+    "status": "accepted_auto",
     "reviewChecklist": [
       "确认它是独立产品而非普通功能",
       "确认属于研究范围",
       "找到官方一手信源",
       "补充厂商、类型与官网"
-    ]
+    ],
+    "score": 6,
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：官方一手信源确认新 Agent 产品或独立入口"
   },
   {
     "id": "new-product-e9df3223",
@@ -229,13 +316,16 @@
     "sourceType": "media",
     "publishedAt": "2026-09-24T08:25:32.000Z",
     "discoveredAt": "2026-10-01T05:37:15.528Z",
-    "status": "pending",
+    "status": "deferred_auto",
     "reviewChecklist": [
       "确认它是独立产品而非普通功能",
       "确认属于研究范围",
       "找到官方一手信源",
       "补充厂商、类型与官网"
-    ]
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-05",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
   },
   {
     "id": "new-product-443bbc15",
@@ -1849,124 +1939,6 @@
     ],
     "score": 3,
     "reviewedAt": "2026-08-24",
-    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
-  },
-  {
-    "id": "new-product-7ade23bd",
-    "title": "ScienceDiscovery发布：零科研幻觉的一站式AI工作台，BiomniBench-DA验证效果业界SOTA - 搜狐网",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRVhoSmFST00tNkJ1YU1FdGk0RHhYZXlPZk8yOXo2dTUxVmFzNkFSaHhPUXdldDlsSV9SUzYxUkxlb0ZKSW0yM2J1MmFFNjZKS3o4Q3pFNzRSQkw0b1lITGoxdktiT3UtcUtjc3RFdGNGVHNVTDVUNDFpQV9HNjdoTU8xOW9NRFY3?oc=5",
-    "sourceLabel": "搜狐网",
-    "sourceType": "media",
-    "publishedAt": "2026-08-16T07:48:20.000Z",
-    "discoveredAt": "2026-08-17T03:09:22.884Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-17",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-ab66577d",
-    "title": "智谱 GLM-5.3 发布：7400 亿参数没涨，靠后训练硬拉 50% 性能，编程能力逼近 Fable 5",
-    "sourceUrl": "https://news.aibase.com/zh/news/30353",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-08-14T06:29:21.000Z",
-    "discoveredAt": "2026-08-17T03:10:15.520Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-17",
-    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
-  },
-  {
-    "id": "new-product-ab689614",
-    "title": "DeepSeek Harness v0.1开放全球测试：采用“一切皆插件”架构并开源",
-    "sourceUrl": "https://news.aibase.com/zh/news/30343",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-08-14T02:43:42.000Z",
-    "discoveredAt": "2026-08-17T03:10:15.522Z",
-    "status": "rejected_manual",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 0,
-    "reviewedAt": "2026-08-17",
-    "reviewReason": "人工复核：与 DeepSeek 官方 Harness 发布为同一事件，保留官方信源版本"
-  },
-  {
-    "id": "new-product-1960f479",
-    "title": "谷歌发布Gemini3.7Flash:编码性能全面升级，初始定价降幅达50%",
-    "sourceUrl": "https://news.aibase.com/zh/news/30335",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-08-14T01:35:04.000Z",
-    "discoveredAt": "2026-08-17T03:10:15.524Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 5,
-    "reviewedAt": "2026-08-17",
-    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
-  },
-  {
-    "id": "new-product-f8e6be44",
-    "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
-    "sourceUrl": "https://cursor.com/blog/builds",
-    "sourceLabel": "Cursor Blog",
-    "sourceType": "official",
-    "publishedAt": "2026-08-13T12:00:00.000Z",
-    "discoveredAt": "2026-08-17T03:09:58.130Z",
-    "status": "promoted_manual",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-17",
-    "reviewReason": "人工复核：Cursor 官方博客确认 Builds 上线，已补入重大动态"
-  },
-  {
-    "id": "new-product-135c6dd9",
-    "title": "鸿蒙版支付宝升级上线 AI助手“阿宝”开启全平台公测",
-    "sourceUrl": "https://news.aibase.com/zh/news/30313",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-08-13T06:12:21.000Z",
-    "discoveredAt": "2026-08-17T03:10:15.528Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-17",
     "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
   }
 ]

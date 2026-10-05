@@ -6,17 +6,17 @@ window.PRODUCT_VISUALS = {
   },
   "p02-workbuddy": {
     "icon": "assets/product-icons/p02-workbuddy.svg",
-    "source": "https://download.codebuddy.cn/web/website/2323ea5befd8bcf62c88b96b44fc8f6c83815612/assets/logo.svg",
+    "source": "https://download.codebuddy.cn/web/website/a156fee78f35e874d407848198e5f96a4cf383ef/assets/logo.svg",
     "status": "collected"
   },
   "p03-ai": {
-    "icon": "assets/product-icons/p03-ai.png",
-    "source": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.stepfun.com%2Fchats%2Fnew&sz=128",
+    "icon": "assets/product-icons/p03-ai.svg",
+    "source": "https://chat.stepfun.com/svg/favicon.svg",
     "status": "collected"
   },
   "p04-minimax-agent-minimax": {
     "icon": "assets/product-icons/p04-minimax-agent-minimax.png",
-    "source": "https://agent.minimax.cn/assets/logo/apple-touch_v2.png",
+    "source": "https://agent.minimax.cn/assets/logo/apple-touch_v2.png?v=5",
     "status": "collected"
   },
   "p05-skywork": {
@@ -51,7 +51,7 @@ window.PRODUCT_VISUALS = {
   },
   "p08-manus-manus": {
     "icon": "assets/product-icons/p08-manus-manus.png",
-    "source": "https://intercom.help/manus-ai/assets/favicon",
+    "source": "https://help.manus.im/assets/favicon",
     "status": "collected"
   },
   "p11-amazon-quick-aws": {
@@ -131,7 +131,7 @@ window.PRODUCT_VISUALS = {
   },
   "p33-maxhermes-minimax": {
     "icon": "assets/product-icons/p33-maxhermes-minimax.png",
-    "source": "https://agent.minimax.cn/assets/logo/apple-touch_v2.png",
+    "source": "https://agent.minimax.cn/assets/logo/apple-touch_v2.png?v=5",
     "status": "collected"
   },
   "p25-lobsterai": {
@@ -155,8 +155,8 @@ window.PRODUCT_VISUALS = {
     "status": "collected"
   },
   "p37-ai-claw": {
-    "icon": "assets/product-icons/p37-ai-claw.jpg",
-    "source": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fbrand.lenovo.com.cn%2Fbrand%2Fppn03698.html&sz=128",
+    "icon": "assets/product-icons/p37-ai-claw.ico",
+    "source": "https://brand.lenovo.com.cn/favicon.ico",
     "status": "collected"
   },
   "p38-wps-claw": {
@@ -171,7 +171,7 @@ window.PRODUCT_VISUALS = {
   },
   "p40-loomy": {
     "icon": "assets/product-icons/p40-loomy.png",
-    "source": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Floomy.xunfei.cn%2F&sz=128",
+    "source": "https://loomy.xunfei.cn/icon.png?5f7e7b8be5d4c76b",
     "status": "collected"
   },
   "p31-gemini-spark-google": {
@@ -200,8 +200,8 @@ window.PRODUCT_VISUALS = {
     "status": "collected"
   },
   "p41-microsoft-scout": {
-    "icon": "assets/product-icons/p41-microsoft-scout.png",
-    "source": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fpartner.microsoft.com%2Fen-us%2Fblog%2Farticle%2Fmicrosoft-build-2026-recap&sz=128",
+    "icon": "assets/product-icons/p41-microsoft-scout.jpg",
+    "source": "https://blogs.microsoft.com/wp-content/uploads/2017/08/favicon.jpg",
     "status": "collected"
   },
   "p42-hermes-agent": {
@@ -230,23 +230,23 @@ window.PRODUCT_VISUALS = {
     "status": "collected"
   },
   "p47-openai-dots": {
-    "icon": null,
-    "source": "https://openai.com/index/introducing-dots/",
-    "status": "fallback"
+    "icon": "assets/product-icons/p47-openai-dots.png",
+    "source": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fopenai.com%2Findex%2Fintroducing-dots%2F&sz=128",
+    "status": "collected"
   },
   "p48-cue": {
-    "icon": null,
-    "source": "https://cue.im/",
-    "status": "fallback"
+    "icon": "assets/product-icons/p48-cue.png",
+    "source": "https://cue.im/assets/cue/favicon-192.png",
+    "status": "collected"
   },
   "p49-grok-team-bots": {
-    "icon": null,
-    "source": "https://x.ai/news/team-bots",
-    "status": "fallback"
+    "icon": "assets/product-icons/p49-grok-team-bots.png",
+    "source": "https://x.ai/apple-icon.png?apple-icon.21lxxn22zx2o2.png?dpl=367c525206561a36400b25e02c25ed7db42517e5",
+    "status": "collected"
   },
   "p50-wanyouwujie": {
-    "icon": null,
-    "source": "https://www.qianwenai.com/agents/wanyou",
-    "status": "fallback"
+    "icon": "assets/product-icons/p50-wanyouwujie.png",
+    "source": "https://img.alicdn.com/imgextra/i3/O1CN01JJdN1q1YO2LyUcGwF_!!6000000003048-2-tps-48-48.png",
+    "status": "collected"
   }
 };

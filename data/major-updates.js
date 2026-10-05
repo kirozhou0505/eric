@@ -1,5 +1,18 @@
 window.MAJOR_UPDATES = [
   {
+    "id": "2026-09-30-new-product-3250ac51",
+    "productSlug": null,
+    "date": "2026-09-30",
+    "category": "新产品",
+    "title": "腾讯入局Personal Agent赛道:代号\"Handy Bot\"，已在微信低调内测",
+    "summary": "该事件确认了新的 Agent 产品、独立入口或重大工作模式已经公开发布。",
+    "impact": "为 Agent 市场增加新的产品形态或可用入口，值得纳入竞争跟踪",
+    "sourceUrl": "https://news.aibase.com/zh/news/31426",
+    "sourceLabel": "AIbase基地",
+    "verifiedAt": "2026-10-05",
+    "autoReviewed": true
+  },
+  {
     "id": "2026-09-29-openai-dots-launch",
     "productSlug": "p47-openai-dots",
     "date": "2026-09-29",
@@ -24,6 +37,32 @@ window.MAJOR_UPDATES = [
     "sourceLabel": "OpenAI 官方：DevDay 2026 Recap",
     "verifiedAt": "2026-10-01",
     "autoReviewed": false
+  },
+  {
+    "id": "2026-09-29-p47-openai-dots-e0c40c8c",
+    "productSlug": "p47-openai-dots",
+    "date": "2026-09-29",
+    "category": "重大版本",
+    "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新",
+    "summary": "OpenAI Dots 出现新的关键能力变化、明确事件词。自动审核确认其信源和事件强度达到正式时间线的收录标准。",
+    "impact": "新增关键能力并改变产品使用方式",
+    "sourceUrl": "https://openai.com/index/devday-2026-recap",
+    "sourceLabel": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "verifiedAt": "2026-10-05",
+    "autoReviewed": true
+  },
+  {
+    "id": "2026-09-29-p48-cue-ffa2d4e0",
+    "productSlug": "p48-cue",
+    "date": "2026-09-29",
+    "category": "重大版本",
+    "title": "Manus 推出 Manus 2.0 和个人 Agent 应用 Cue",
+    "summary": "Cue（Manus） 出现新的关键能力变化、明确事件词。自动审核确认其信源和事件强度达到正式时间线的收录标准。",
+    "impact": "新增关键能力并改变产品使用方式",
+    "sourceUrl": "https://mp.weixin.qq.com/s/18cIG3kJNLNgR4Gv5tdNgA",
+    "sourceLabel": "AI工具集 / APPSO",
+    "verifiedAt": "2026-10-05",
+    "autoReviewed": true
   },
   {
     "id": "2026-09-28-cue-launch",
@@ -102,6 +141,19 @@ window.MAJOR_UPDATES = [
     "sourceLabel": "AIBase：腾讯 QClaw 停运与迁移安排",
     "verifiedAt": "2026-10-01",
     "autoReviewed": false
+  },
+  {
+    "id": "2026-09-24-new-product-c8455a13",
+    "productSlug": null,
+    "date": "2026-09-24",
+    "category": "新产品",
+    "title": "Google Cloud API Gateway 推出 MCP 支持，可将现有 REST API 直接暴露为智能体工具",
+    "summary": "该事件确认了新的 Agent 产品、独立入口或重大工作模式已经公开发布。",
+    "impact": "为 Agent 市场增加新的产品形态或可用入口，值得纳入竞争跟踪",
+    "sourceUrl": "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway",
+    "sourceLabel": "Google Developers Blog（RSS）",
+    "verifiedAt": "2026-10-05",
+    "autoReviewed": true
   },
   {
     "id": "2026-09-16-claude-unified-cowork",
