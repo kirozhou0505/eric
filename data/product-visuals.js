@@ -6,7 +6,7 @@ window.PRODUCT_VISUALS = {
   },
   "p02-workbuddy": {
     "icon": "assets/product-icons/p02-workbuddy.svg",
-    "source": "https://download.codebuddy.cn/web/website/a156fee78f35e874d407848198e5f96a4cf383ef/assets/logo.svg",
+    "source": "https://download.codebuddy.cn/web/website/41d9f07cb6de7881ba06d46982d3876c0cbc1a98/assets/logo.svg",
     "status": "collected"
   },
   "p03-ai": {
@@ -241,7 +241,7 @@ window.PRODUCT_VISUALS = {
   },
   "p49-grok-team-bots": {
     "icon": "assets/product-icons/p49-grok-team-bots.png",
-    "source": "https://x.ai/apple-icon.png?apple-icon.21lxxn22zx2o2.png?dpl=367c525206561a36400b25e02c25ed7db42517e5",
+    "source": "https://x.ai/apple-icon.png?apple-icon.167itqrsbgzm4.png?dpl=1cffd398a98fa63736d58074cf7f4d98e1f804bd",
     "status": "collected"
   },
   "p50-wanyouwujie": {

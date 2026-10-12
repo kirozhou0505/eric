@@ -1,5 +1,276 @@
 [
   {
+    "id": "new-product-47c0eae7",
+    "title": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
+    "sourceUrl": "https://news.aibase.com/zh/news/31550",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-12T01:07:17.000Z",
+    "discoveredAt": "2026-10-12T09:06:11.177Z",
+    "status": "accepted_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 5,
+    "reviewedAt": "2026-10-12",
+    "reviewReason": "自动审核：可信媒体确认，且新产品与重大变化信号明确"
+  },
+  {
+    "id": "new-product-7eb1e480",
+    "title": "开源多智能体工作台Codeg发布新版本：AI智能体可操控浏览器与电脑 - https://www.80aj.com/",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKdnF4blRFcEZKQjJzb05Zc0dkbHVURFg3eHZmcUxLdEh0VUc3Y1gwZUFEYXgtdTVDM0xNZk5lam55SlFXZUJuMFlkbERseDdtdFVOU003aU96VW42UDRCVzR3ci1neWsxZnY2ZFZR?oc=5",
+    "sourceLabel": "https://www.80aj.com/",
+    "sourceType": "media",
+    "publishedAt": "2026-10-11T09:49:05.000Z",
+    "discoveredAt": "2026-10-12T09:05:30.608Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-12",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-7b47acb4",
+    "title": "Meta AI智能体Muse曾擅自改密码、读短信，扎克伯格为何仍执意上线？ - cnBeta.COM",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBd0Q4REpqX3VnWVljSWVXM2JjT294ZjcydjdDQ3Z5Z05WVmtGUVBzUkdFVzZScXB0OG1mcm9mOTZLZ1NQaV9fSWVJc3N3OXI4SURPdkdmUDg0Mmh1MmpYRw?oc=5",
+    "sourceLabel": "cnBeta.COM",
+    "sourceType": "media",
+    "publishedAt": "2026-10-10T06:12:00.000Z",
+    "discoveredAt": "2026-10-12T09:05:30.839Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-12",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-2fa29532",
+    "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
+    "sourceUrl": "https://sierra.ai/blog/poppy",
+    "sourceLabel": "Sierra：Blog（RSS）",
+    "sourceType": "media",
+    "publishedAt": "2026-10-09T19:56:06.000Z",
+    "discoveredAt": "2026-10-12T09:05:57.418Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-12",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-c4b4e3bb",
+    "title": "谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道",
+    "sourceUrl": "https://news.aibase.com/zh/news/31507",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-09T08:05:56.000Z",
+    "discoveredAt": "2026-10-12T09:06:11.182Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-12",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-c7b4e874",
+    "title": "JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍",
+    "sourceUrl": "https://news.aibase.com/zh/news/31502",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-09T06:28:38.000Z",
+    "discoveredAt": "2026-10-12T09:06:11.183Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-12",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
+    "id": "new-product-5720d966",
+    "title": "OpenAI 推出全新模型 GPT-6.1 Sol 的 Ultrafast 版本",
+    "sourceUrl": "https://mp.weixin.qq.com/s/qe3dJ1yVFGaLpzmk_-9gEA",
+    "sourceLabel": "AI工具集 / 机器之心",
+    "sourceType": "media",
+    "discoverySource": "AI工具集",
+    "publishedAt": "2026-10-09T00:00:00.000Z",
+    "discoveredAt": "2026-10-12T09:06:11.191Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-12",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
+    "id": "new-product-957ef3cb",
+    "title": "谷歌推出通用办公智能体 Gemini agent",
+    "sourceUrl": "https://mp.weixin.qq.com/s/ZTqTRMwppujjU2CbCi9JtQ",
+    "sourceLabel": "AI工具集 / 量子位",
+    "sourceType": "media",
+    "discoverySource": "AI工具集",
+    "publishedAt": "2026-10-09T00:00:00.000Z",
+    "discoveredAt": "2026-10-12T09:06:11.191Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-12",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-72a7fc6f",
+    "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
+    "sourceUrl": "https://www.youtube.com/shorts/n9WfoNW2XnE",
+    "sourceLabel": "Claude：YouTube（RSS）",
+    "sourceType": "media",
+    "publishedAt": "2026-10-08T15:53:13.000Z",
+    "discoveredAt": "2026-10-12T09:05:57.418Z",
+    "status": "rejected_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-12",
+    "reviewReason": "自动审核：属于传闻、资本噪音、榜单政策或非产品事件"
+  },
+  {
+    "id": "new-product-8e13b606",
+    "title": "OpenAI推出常驻AI智能体“dots”，支持4000+应用-AI应用 - 至顶网",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1OF8yVjJ2S1VpcjFUdmhlMFhGT1VLMEFibl9XVmFua2NEbTNKWUg5ZEpWX3duSEZoWkVLQXY3Y0k4QjFzOGhtTUxqWlRVX3RPWmxfUDZjVmxmdnNwN2hwV182clFpLUtocGRGYUdidw?oc=5",
+    "sourceLabel": "至顶网",
+    "sourceType": "media",
+    "publishedAt": "2026-10-08T06:41:57.000Z",
+    "discoveredAt": "2026-10-12T09:05:30.839Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-12",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-ec77e8b3",
+    "title": "NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC",
+    "sourceUrl": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+    "sourceLabel": "NVIDIA Blog（RSS）",
+    "sourceType": "media",
+    "publishedAt": "2026-10-07T18:45:28.000Z",
+    "discoveredAt": "2026-10-12T09:05:57.418Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-12",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-44359192",
+    "title": "适配大屏：Meta推出iPad版Muse AI智能体 - 凤凰网科技",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PQ2VzSlBVU0xBY194RUgzTllNNk1YU3B2M0V4TlJOTXNqRG9IeDQycHJUNmVGRE5VTTRNTE1kaG1CZHA1R3pUNWNGLWU?oc=5",
+    "sourceLabel": "凤凰网科技",
+    "sourceType": "media",
+    "publishedAt": "2026-10-07T14:59:53.000Z",
+    "discoveredAt": "2026-10-12T09:05:30.839Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-12",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-8e05eaa2",
+    "title": "适配大屏：Meta推出iPad版Muse AI智能体|Meta Muse|Dropbox|Grok Bot|Apple|Figma - finance.sina.com.cn",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNRUpyWElvTURKWGg1SUlvWkpiQ181WnZ6TE95V0lSa1JYUUhGV1REWnhhbkRxUkw1MWdwUEVlUmtFdUtMMHlJRE84YUtHbWhrTkJmUGU2WDhpcEFBMWV2OU02bmN6bnM2d19meTViLVVYWE1qWWpJcXpwZkEwT2t6aXRfbllhTWdqN2ZIbmlnNWhGeThUeDdRZ3NjcGFYRmdabnJ3Ynhpc1JUSWNjR2Fjdlg3d2xXSzhCTkR2NFJXXzJjZ0FzUVBBVFV2R0VsMFU0ak5aWjlrbXNjWHoxUTY0bDd5dW4tTWYyOFFiZU05YTlWa3NrbjNpMy0za1VDX0xhWjNEUnpYQWR2NE1VSW5XRTdiWU1JZ1otWDR0SGVvV0hKZkZlQmRIN3dQbmN2MkxyWFo3cEh2R0xlYnpQYUNNNVRscC0tSlhSb2hFZm5oSkgzZURlQ2xZZEdUbw?oc=5",
+    "sourceLabel": "finance.sina.com.cn",
+    "sourceType": "media",
+    "publishedAt": "2026-10-07T07:00:00.000Z",
+    "discoveredAt": "2026-10-12T09:05:30.839Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-12",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-4861c36b",
+    "title": "Google 发布 Developer Knowledge API 生态，为 AI 智能体提供官方文档检索",
+    "sourceUrl": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
+    "sourceLabel": "Google Developers Blog（RSS）",
+    "sourceType": "media",
+    "publishedAt": "2026-10-07T00:00:00.000Z",
+    "discoveredAt": "2026-10-12T09:05:57.419Z",
+    "status": "accepted_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-12",
+    "reviewReason": "自动审核：官方一手信源确认新 Agent 产品或独立入口"
+  },
+  {
     "id": "new-product-6b175275",
     "title": "Yellow.ai推出Nexus EDGE桌面智能体 - 搜狐网",
     "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMGc2aTNOV1hMUVhHbm8tb2ViYUZxX2k3X1FPR2tmYUZHRlJtbjc3N0s1QVVlNDNVREI4YVFWLW1MNldiQmtRczRqM3RIRExQZks0LXZlOHJrcGZ4NzFHbi1zLWJFT0x3ZXl2ZDYzejQzaGExRTI1RkV1N0h0RXN1SXRqS21xVy13X1dHUQ?oc=5",
@@ -1764,181 +2035,5 @@
     "score": 6,
     "reviewedAt": "2026-09-01",
     "reviewReason": "人工复核：与 Anthropic 官方候选重复，保留官方一手来源版本"
-  },
-  {
-    "id": "new-product-6815c611",
-    "title": "尊时凯龙登录入口官网发布2026春季重大更新：AI智能工作台引领效率革命 - womenofchina.com",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6YUtxYk9sQkRFUFBpajJ4Sndjd09OXzdvQmJFM290UHRsV3d0SXF1OXhGSkMwTF9halBKb1pyZjJ0T0M3YTlTS3piUjdHYXlXRjJhTV92c2E0YU91ZE4yTkZ2TkpmaHBpRXc?oc=5",
-    "sourceLabel": "womenofchina.com",
-    "sourceType": "media",
-    "publishedAt": "2026-08-21T01:26:43.000Z",
-    "discoveredAt": "2026-08-24T03:13:03.078Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-24",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-fb8d57b7",
-    "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
-    "sourceUrl": "https://news.aibase.com/zh/news/30508",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-08-20T09:58:30.000Z",
-    "discoveredAt": "2026-08-24T03:14:45.163Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-24",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-f28d498c",
-    "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-    "sourceUrl": "https://news.aibase.com/zh/news/30501",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-08-20T06:29:15.000Z",
-    "discoveredAt": "2026-08-24T03:14:45.164Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-24",
-    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
-  },
-  {
-    "id": "new-product-ffcd858d",
-    "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
-    "sourceUrl": "https://claude.com/blog/computer-use-skills-api-files-api",
-    "sourceLabel": "Claude：Blog（网页）",
-    "sourceType": "media",
-    "publishedAt": "2026-08-19T16:00:00.000Z",
-    "discoveredAt": "2026-08-24T03:14:04.345Z",
-    "status": "promoted_manual",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 6,
-    "reviewedAt": "2026-09-01",
-    "reviewReason": "人工复核：Anthropic 官方确认 Computer Use、Browser Use、Skills API 与 Files API 正式可用，已发布"
-  },
-  {
-    "id": "new-product-a2880dd",
-    "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
-    "sourceUrl": "https://mistral.ai/news/agentic-search",
-    "sourceLabel": "Mistral AI：News（网页）",
-    "sourceType": "media",
-    "publishedAt": "2026-08-19T16:00:00.000Z",
-    "discoveredAt": "2026-08-24T03:14:04.345Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-24",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-7fb3402d",
-    "title": "字节跳动推出扣子桌面端",
-    "sourceUrl": "https://mp.weixin.qq.com/s/9Kods-auxnMj__emtsZSCQ",
-    "sourceLabel": "AI工具集 / 扣子Coze",
-    "sourceType": "media",
-    "discoverySource": "AI工具集",
-    "publishedAt": "2026-08-19T00:00:00.000Z",
-    "discoveredAt": "2026-08-24T03:14:45.185Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-24",
-    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
-  },
-  {
-    "id": "new-product-a1587c3d",
-    "title": "2699元起！闪极新款AI眼镜发布：重40g，能写日记、接Agent，40小时续航 - 新浪财经",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNajZIQ1hPdm9YRHdyZTZLMlFoY3FQd2VGTG5Damo0MEhkeEI0LVhRRmVJbTZYM2pRQ1psN3NPNjJpbWhkaXJfS0NJdm5hejFVaWQ3RVhlMmcwU1BvZzBNeDlpSENVa09LaW1lNTVtT3hibDRYNm0tSTNpRUt3aWlOVERadXlqanFxXzN2a3J5eWZmQVM1dFJFcFVsZ0o5ZXdqZHVZVVA2TQ?oc=5",
-    "sourceLabel": "新浪财经",
-    "sourceType": "media",
-    "publishedAt": "2026-08-18T15:54:23.000Z",
-    "discoveredAt": "2026-08-24T03:13:03.330Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-24",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-3fb433f",
-    "title": "生产级RAG与Agent可视化平台Ollmo v0.1. 0 正式发布",
-    "sourceUrl": "https://news.aibase.com/zh/news/30427",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-08-18T05:55:40.000Z",
-    "discoveredAt": "2026-08-24T03:14:45.179Z",
-    "status": "promoted_manual",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 8,
-    "reviewedAt": "2026-09-01",
-    "reviewReason": "人工复核：已找到 Ollmo 官方 GitHub，确认开源版本与产品能力后发布"
-  },
-  {
-    "id": "new-product-5fb4665",
-    "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-    "sourceUrl": "https://news.aibase.com/zh/news/30425",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-08-18T03:18:22.000Z",
-    "discoveredAt": "2026-08-24T03:14:45.179Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 3,
-    "reviewedAt": "2026-08-24",
-    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
   }
 ]

@@ -1,59 +1,42 @@
-# 2026-10-05 自动审核记录
+# 2026-10-12 自动审核记录
 
 运行时区：Asia/Shanghai
 
-- 自动正式收录：7 条
-- 自动暂缓：27 条
-- 自动拒绝：0 条
+- 自动正式收录：2 条
+- 自动暂缓：15 条
+- 自动拒绝：1 条
 
 ## 自动正式收录
 
 | 产品 | 事件 | 结论 |
 |---|---|---|
-| OpenAI Dots | [OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新](https://openai.com/index/devday-2026-recap) | 自动审核：官方一手信源且产品关联明确 |
-| Cue（Manus） | [Manus 推出 Manus 2.0 和个人 Agent 应用 Cue](https://mp.weixin.qq.com/s/18cIG3kJNLNgR4Gv5tdNgA) | 自动审核：可信媒体、产品关联明确且属于重大变化 |
-| 新产品候选 | [腾讯入局Personal Agent赛道:代号"Handy Bot"，已在微信低调内测](https://news.aibase.com/zh/news/31426) | 自动审核：可信媒体确认，且新产品与重大变化信号明确 |
-| 新产品候选 | [OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动](https://openai.com/index/introducing-dots/) | 自动审核：官方一手信源确认新 Agent 产品或独立入口 |
-| 新产品候选 | [OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新](https://openai.com/index/devday-2026-recap) | 自动审核：官方一手信源确认新 Agent 产品或独立入口 |
-| 新产品候选 | [xAI 发布 Team Bots：可与团队共同学习工作的 Grok 智能体](https://x.ai/news/team-bots) | 自动审核：官方一手信源确认新 Agent 产品或独立入口 |
-| 新产品候选 | [Google Cloud API Gateway 推出 MCP 支持，可将现有 REST API 直接暴露为智能体工具](https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway) | 自动审核：官方一手信源确认新 Agent 产品或独立入口 |
+| 新产品候选 | [蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体](https://news.aibase.com/zh/news/31550) | 自动审核：可信媒体确认，且新产品与重大变化信号明确 |
+| 新产品候选 | [Google 发布 Developer Knowledge API 生态，为 AI 智能体提供官方文档检索](https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/) | 自动审核：官方一手信源确认新 Agent 产品或独立入口 |
 
 ## 自动暂缓
 
 | 产品 | 事件 | 结论 |
 |---|---|---|
-| Manus桌面版（Manus） | [Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FWjdKdEtKZ1NZWUZWTWZ3bzNZVHpabENLQUdleURnZWVoVzY0S3hKN1IzRkxkbzhqbzhJdFExTFNoWTJlbXZRRjR4aDk?oc=5) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
-| Cue（Manus） | [Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FWjdKdEtKZ1NZWUZWTWZ3bzNZVHpabENLQUdleURnZWVoVzY0S3hKN1IzRkxkbzhqbzhJdFExTFNoWTJlbXZRRjR4aDk?oc=5) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
-| Manus桌面版（Manus） | [Manus 2.0 正式发布：新架构 Cascade、Manus Studio 与独立应用 Cue](https://manus.im/zh-cn/blog/introducing-manus-2-0) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
-| Codex桌面版（Open AI） | [OpenAI发布Codex CLI重大升级：支持语音对话与多智能体协作](https://news.google.com/rss/articles/CBMiXkFVX3lxTE00aEk3aGJzVGhFRHR4Y3l4aU9IU0YweVVtTlhmTzRjaG5CZFItanpqZmVfc1llMnloOFZQSTk5WEFTWTlEdUxJZ3N6dUZFX0JZZy1uUHZKRzcwSE5lTFE?oc=5) | 自动审核：事件可能相关，但信源或事件强度仍需复核 |
-| Codex桌面版（Open AI） | [OpenAI 推出新版 Codex Cloud，Agents API 开放预览并支持 computer use](https://x.com/thsottiaux/status/2104987594719461796) | 自动审核：事件可能相关，但信源或事件强度仍需复核 |
-| OpenAI Dots | [OpenAI 推出新版 Codex Cloud，Agents API 开放预览并支持 computer use](https://x.com/thsottiaux/status/2104987594719461796) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
-| Codex桌面版（Open AI） | [OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能](https://openai.com/index/introducing-gpt-6-1-sol/) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
-| Amazon Quick（AWS） | [OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新](https://openai.com/index/devday-2026-recap) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
-| Codex桌面版（Open AI） | [OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新](https://openai.com/index/devday-2026-recap) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
-| OpenClaw | [OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新](https://openai.com/index/devday-2026-recap) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
-| Codex桌面版（Open AI） | [OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平](https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price/) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
-| Codex桌面版（Open AI） | [OpenAI 携手 ModRetro 发布 Codex 专用插件：动动嘴就能造出复古 Game Boy 游戏](https://news.aibase.com/zh/news/31431) | 自动审核：事件可能相关，但信源或事件强度仍需复核 |
-| OpenAI Dots | [OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新](https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837#rd) | 自动审核：事件可能相关，但信源或事件强度仍需复核 |
-| Codex桌面版（Open AI） | [Every 实测 OpenAI DevDay 2026：20 多项发布与上手体验](https://every.to/vibe-check/vibe-check-openai-devday-2026) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
-| OpenClaw | [Every 实测 OpenAI DevDay 2026：20 多项发布与上手体验](https://every.to/vibe-check/vibe-check-openai-devday-2026) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
-| OpenAI Dots | [Every 实测 OpenAI DevDay 2026：20 多项发布与上手体验](https://every.to/vibe-check/vibe-check-openai-devday-2026) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
-| Grok Team Bots（xAI） | [Every 实测 OpenAI DevDay 2026：20 多项发布与上手体验](https://every.to/vibe-check/vibe-check-openai-devday-2026) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
-| Amazon Quick（AWS） | [Anthropic 发布 Claude Sonnet 5.5，速度提升 30%+ 且每任务成本最多降低 30%](https://www.anthropic.com/claude-sonnet-5-5) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
-| 新产品候选 | [Yellow.ai推出Nexus EDGE桌面智能体](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMGc2aTNOV1hMUVhHbm8tb2ViYUZxX2k3X1FPR2tmYUZHRlJtbjc3N0s1QVVlNDNVREI4YVFWLW1MNldiQmtRczRqM3RIRExQZks0LXZlOHJrcGZ4NzFHbi1zLWJFT0x3ZXl2ZDYzejQzaGExRTI1RkV1N0h0RXN1SXRqS21xVy13X1dHUQ?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [Yellow.ai推出Nexus EDGE桌面智能体](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tcmlEbTBGdGwwZnJkQjgwcmxZSXVZTjRMa2drenI3NVF3NzFMbWVjd0N5Y25NOVpOZjY0NnYxT1dlU1cxSFhVMXdKN195VUJTb1IxYjFpSk1NZWRLc3k5Tw?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [Modal 正式发布 VM Sandboxes：给 Agent 一台完整的 Linux 虚拟机](https://modal.com/blog/vm-sandboxes-agent-computers) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [OpenAI推出新一代主力模型 GPT-6.1 Sol 和常驻型 Agent「Dots」](https://mp.weixin.qq.com/s/ZkiIqn6wYc9r3q-PufwwpQ) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [OpenAI 推出新版 Codex Cloud，Agents API 开放预览并支持 computer use](https://x.com/thsottiaux/status/2104987594719461796) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [Manus 推出 Manus 2.0 和个人 Agent 应用 Cue](https://mp.weixin.qq.com/s/18cIG3kJNLNgR4Gv5tdNgA) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离](https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [Microsoft 发布新版 Copilot，新增 Home、Code 与 Autopilot](https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
-| 新产品候选 | [Accio与数贸会联合上线“数贸会agent”：超2000家展商轻松逛](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmozQ3lvdlM1V3NjbjdXUC11QTh3aEhPY3lCeW9VNklYTW5UQl9oTFV4OUt1WTJHMTFRSHBhMGRBcHZrUk1WajVrSlpRSXdWdDkxQ2Y5TzVCREdtdUVXbzFIR1RnQ2lERkNXbVhJc0dNR1hJZVFEU0xYUU01MUtBVDNCVzJZYzFoSlZTSHVkVkMyS2R3RkhTVXdCN1UzaXUyajdtN1ZGVGNDWUpma0FIVmVB?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| Qclaw（腾讯） | [腾讯元器11月9日停服，两月内第二款智能体平台关停](https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yMmg0WElCdVVkOXpBUVEyLTE2ZFBBSS1uZU9ta2JIWE8zYk5kZF9xNkpCZlgwdFRnaENBakxMWmstODZRWWUzVG1tNV9JMnZGaDdkcQ?oc=5) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
+| Codex桌面版（Open AI） | [开源多智能体工作台Codeg发布新版本：AI智能体可操控浏览器与电脑](https://news.google.com/rss/articles/CBMibkFVX3lxTFBKdnF4blRFcEZKQjJzb05Zc0dkbHVURFg3eHZmcUxLdEh0VUc3Y1gwZUFEYXgtdTVDM0xNZk5lam55SlFXZUJuMFlkbERseDdtdFVOU003aU96VW42UDRCVzR3ci1neWsxZnY2ZFZR?oc=5) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
+| WorkBuddy（腾讯） | [阶跃 Step 5 Preview 登陆腾讯 WorkBuddy，限时免费两周](https://news.aibase.com/zh/news/31565) | 自动审核：事件可能相关，但信源或事件强度仍需复核 |
+| Qclaw（腾讯） | [有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”](https://news.aibase.com/zh/news/31523) | 自动审核：事件可能相关，但信源或事件强度仍需复核 |
+| 新产品候选 | [开源多智能体工作台Codeg发布新版本：AI智能体可操控浏览器与电脑](https://news.google.com/rss/articles/CBMibkFVX3lxTFBKdnF4blRFcEZKQjJzb05Zc0dkbHVURFg3eHZmcUxLdEh0VUc3Y1gwZUFEYXgtdTVDM0xNZk5lam55SlFXZUJuMFlkbERseDdtdFVOU003aU96VW42UDRCVzR3ci1neWsxZnY2ZFZR?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [Meta AI智能体Muse曾擅自改密码、读短信，扎克伯格为何仍执意上线？](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBd0Q4REpqX3VnWVljSWVXM2JjT294ZjcydjdDQ3Z5Z05WVmtGUVBzUkdFVzZScXB0OG1mcm9mOTZLZ1NQaV9fSWVJc3N3OXI4SURPdkdmUDg0Mmh1MmpYRw?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴](https://sierra.ai/blog/poppy) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [谷歌云重磅发布Gemini Agent，全面杀入企业级AI办公赛道](https://news.aibase.com/zh/news/31507) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [JetBrains 发布编程 AI 模型 Mellum2.1，高负载吞吐量超越竞品两倍](https://news.aibase.com/zh/news/31502) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
+| 新产品候选 | [OpenAI 推出全新模型 GPT-6.1 Sol 的 Ultrafast 版本](https://mp.weixin.qq.com/s/qe3dJ1yVFGaLpzmk_-9gEA) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
+| 新产品候选 | [谷歌推出通用办公智能体 Gemini agent](https://mp.weixin.qq.com/s/ZTqTRMwppujjU2CbCi9JtQ) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [OpenAI推出常驻AI智能体“dots”，支持4000+应用-AI应用](https://news.google.com/rss/articles/CBMib0FVX3lxTFA1OF8yVjJ2S1VpcjFUdmhlMFhGT1VLMEFibl9XVmFua2NEbTNKWUg5ZEpWX3duSEZoWkVLQXY3Y0k4QjFzOGhtTUxqWlRVX3RPWmxfUDZjVmxmdnNwN2hwV182clFpLUtocGRGYUdidw?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [NVIDIA 与 Microsoft 推出 RTX Spark 平台并宣布 MXC 让 AI Agent 落地 Windows PC](https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [适配大屏：Meta推出iPad版Muse AI智能体](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PQ2VzSlBVU0xBY194RUgzTllNNk1YU3B2M0V4TlJOTXNqRG9IeDQycHJUNmVGRE5VTTRNTE1kaG1CZHA1R3pUNWNGLWU?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [适配大屏：Meta推出iPad版Muse AI智能体|Meta Muse|Dropbox|Grok Bot|Apple|Figma](https://news.google.com/rss/articles/CBMi2wJBVV95cUxNRUpyWElvTURKWGg1SUlvWkpiQ181WnZ6TE95V0lSa1JYUUhGV1REWnhhbkRxUkw1MWdwUEVlUmtFdUtMMHlJRE84YUtHbWhrTkJmUGU2WDhpcEFBMWV2OU02bmN6bnM2d19meTViLVVYWE1qWWpJcXpwZkEwT2t6aXRfbllhTWdqN2ZIbmlnNWhGeThUeDdRZ3NjcGFYRmdabnJ3Ynhpc1JUSWNjR2Fjdlg3d2xXSzhCTkR2NFJXXzJjZ0FzUVBBVFV2R0VsMFU0ak5aWjlrbXNjWHoxUTY0bDd5dW4tTWYyOFFiZU05YTlWa3NrbjNpMy0za1VDX0xhWjNEUnpYQWR2NE1VSW5XRTdiWU1JZ1otWDR0SGVvV0hKZkZlQmRIN3dQbmN2MkxyWFo3cEh2R0xlYnpQYUNNNVRscC0tSlhSb2hFZm5oSkgzZURlQ2xZZEdUbw?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
 
 ## 自动拒绝
 
 | 产品 | 事件 | 结论 |
 |---|---|---|
-| 无 | 无 | 无 |
+| 新产品候选 | [Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线](https://www.youtube.com/shorts/n9WfoNW2XnE) | 自动审核：属于传闻、资本噪音、榜单政策或非产品事件 |
 
 > 自动审核采用分层发布策略：高可信重大事件自动进入时间线，关联不足的候选保留复核，明显噪音直接拒绝。

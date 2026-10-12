@@ -680,6 +680,43 @@
     "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
   },
   {
+    "id": "p14-qclaw-f9a2e447",
+    "productSlug": "p14-qclaw",
+    "productName": "Qclaw（腾讯）",
+    "title": "腾讯元器11月9日停服，两月内第二款智能体平台关停 - iheima",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yMmg0WElCdVVkOXpBUVEyLTE2ZFBBSS1uZU9ta2JIWE8zYk5kZF9xNkpCZlgwdFRnaENBakxMWmstODZRWWUzVG1tNV9JMnZGaDdkcQ?oc=5",
+    "sourceLabel": "iheima",
+    "sourceType": "media",
+    "publishedAt": "2026-10-12T03:22:00.000Z",
+    "discoveredAt": "2026-10-12T09:05:26.760Z",
+    "score": 6,
+    "reasons": [
+      "产品发布或停止运营 +6"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-12",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
+  },
+  {
+    "id": "p12-codex-open-ai-99f3d2c5",
+    "productSlug": "p12-codex-open-ai",
+    "productName": "Codex桌面版（Open AI）",
+    "title": "开源多智能体工作台Codeg发布新版本：AI智能体可操控浏览器与电脑 - https://www.80aj.com/",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKdnF4blRFcEZKQjJzb05Zc0dkbHVURFg3eHZmcUxLdEh0VUc3Y1gwZUFEYXgtdTVDM0xNZk5lam55SlFXZUJuMFlkbERseDdtdFVOU003aU96VW42UDRCVzR3ci1neWsxZnY2ZFZR?oc=5",
+    "sourceLabel": "https://www.80aj.com/",
+    "sourceType": "media",
+    "publishedAt": "2026-10-11T09:49:05.000Z",
+    "discoveredAt": "2026-10-12T09:05:26.836Z",
+    "score": 6,
+    "reasons": [
+      "关键能力变化 +4",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-12",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
+  },
+  {
     "id": "p12-codex-open-ai-165bd360",
     "productSlug": "p12-codex-open-ai",
     "productName": "Codex桌面版（Open AI）",
@@ -1699,6 +1736,46 @@
     "status": "deferred_auto",
     "reviewedAt": "2026-06-08",
     "reviewReason": "自动审核：事件可能相关，但信源或事件强度不足以无人值守发布"
+  },
+  {
+    "id": "p02-workbuddy-679c2c75",
+    "productSlug": "p02-workbuddy",
+    "productName": "WorkBuddy（腾讯）",
+    "title": "阶跃 Step 5 Preview 登陆腾讯 WorkBuddy，限时免费两周",
+    "sourceUrl": "https://news.aibase.com/zh/news/31565",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-12T08:18:10.000Z",
+    "discoveredAt": "2026-10-12T09:06:11.174Z",
+    "score": 5,
+    "reasons": [
+      "商业或开放范围变化 +3",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-12",
+    "reviewReason": "自动审核：事件可能相关，但信源或事件强度仍需复核"
+  },
+  {
+    "id": "p14-qclaw-2e2227d7",
+    "productSlug": "p14-qclaw",
+    "productName": "Qclaw（腾讯）",
+    "title": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
+    "sourceUrl": "https://news.aibase.com/zh/news/31523",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-10T02:02:27.000Z",
+    "discoveredAt": "2026-10-12T09:06:11.180Z",
+    "score": 5,
+    "reasons": [
+      "商业或开放范围变化 +3",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-12",
+    "reviewReason": "自动审核：事件可能相关，但信源或事件强度仍需复核"
   },
   {
     "id": "p12-codex-open-ai-64b264f4",
