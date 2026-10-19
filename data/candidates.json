@@ -680,6 +680,44 @@
     "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
   },
   {
+    "id": "p09-marvis-76c370bf",
+    "productSlug": "p09-marvis",
+    "productName": "Marvis（腾讯）",
+    "title": "腾讯 Marvis 鸿蒙版正式上线，支持微信、QQ登录",
+    "sourceUrl": "https://news.aibase.com/zh/news/31666",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-15T07:29:39.000Z",
+    "discoveredAt": "2026-10-19T07:42:14.968Z",
+    "score": 6,
+    "reasons": [
+      "关键能力变化 +4",
+      "明确事件词 +2"
+    ],
+    "status": "accepted_auto",
+    "reviewedAt": "2026-10-19",
+    "reviewReason": "自动审核：可信媒体、产品关联明确且属于重大变化"
+  },
+  {
+    "id": "p14-qclaw-212cd92f",
+    "productSlug": "p14-qclaw",
+    "productName": "Qclaw（腾讯）",
+    "title": "腾讯又一平台将停服 - 搜狐网",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pMWlmOXRTOEZfZEc2cEZfY2Z0dFppUEpQVzFpd2VJX3dHU1hQZnZzTVdYbUVvQ004SldodlBJVXV5T2tzZDlJVGNLMXBfUDNVVUJDWEdEbjVtVHFMY3pVVQ?oc=5",
+    "sourceLabel": "搜狐网",
+    "sourceType": "media",
+    "publishedAt": "2026-10-15T02:04:00.000Z",
+    "discoveredAt": "2026-10-19T07:41:14.119Z",
+    "score": 6,
+    "reasons": [
+      "产品发布或停止运营 +6"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-19",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
+  },
+  {
     "id": "p14-qclaw-f9a2e447",
     "productSlug": "p14-qclaw",
     "productName": "Qclaw（腾讯）",
@@ -1736,6 +1774,65 @@
     "status": "deferred_auto",
     "reviewedAt": "2026-06-08",
     "reviewReason": "自动审核：事件可能相关，但信源或事件强度不足以无人值守发布"
+  },
+  {
+    "id": "p12-codex-open-ai-83f0b16b",
+    "productSlug": "p12-codex-open-ai",
+    "productName": "Codex桌面版（Open AI）",
+    "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
+    "sourceUrl": "https://ollama.com/blog/reflection-beam",
+    "sourceLabel": "Ollama：Blog（RSS）",
+    "sourceType": "media",
+    "publishedAt": "2026-10-16T00:00:00.000Z",
+    "discoveredAt": "2026-10-19T07:41:34.575Z",
+    "score": 5,
+    "reasons": [
+      "商业或开放范围变化 +3",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-19",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
+  },
+  {
+    "id": "p46-qwen-office-aa734f1b",
+    "productSlug": "p46-qwen-office",
+    "productName": "千问办公（Qwen Office）",
+    "title": "千问办公电商版开启邀测，跨平台经营看板、爆款素材批量生成上线",
+    "sourceUrl": "https://news.aibase.com/zh/news/31638",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-14T07:24:17.000Z",
+    "discoveredAt": "2026-10-19T07:42:14.974Z",
+    "score": 5,
+    "reasons": [
+      "商业或开放范围变化 +3",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-19",
+    "reviewReason": "自动审核：事件可能相关，但信源或事件强度仍需复核"
+  },
+  {
+    "id": "p46-qwen-office-75a26be1",
+    "productSlug": "p46-qwen-office",
+    "productName": "千问办公（Qwen Office）",
+    "title": "阿里千问办公面向所有电商商家推出千问办公电商版",
+    "sourceUrl": "https://mp.weixin.qq.com/s/4HkJyG-M_2Twj95pYzTp4w",
+    "sourceLabel": "AI工具集 / 阿里巴巴",
+    "sourceType": "media",
+    "discoverySource": "AI工具集",
+    "publishedAt": "2026-10-14T00:00:00.000Z",
+    "discoveredAt": "2026-10-19T07:42:14.988Z",
+    "score": 5,
+    "reasons": [
+      "商业或开放范围变化 +3",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-19",
+    "reviewReason": "自动审核：事件可能相关，但信源或事件强度仍需复核"
   },
   {
     "id": "p02-workbuddy-679c2c75",

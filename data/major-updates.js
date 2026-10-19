@@ -1,5 +1,31 @@
 window.MAJOR_UPDATES = [
   {
+    "id": "2026-10-15-p09-marvis-76c370bf",
+    "productSlug": "p09-marvis",
+    "date": "2026-10-15",
+    "category": "重大版本",
+    "title": "腾讯 Marvis 鸿蒙版正式上线，支持微信、QQ登录",
+    "summary": "Marvis（腾讯） 出现新的关键能力变化、明确事件词。自动审核确认其信源和事件强度达到正式时间线的收录标准。",
+    "impact": "新增关键能力并改变产品使用方式",
+    "sourceUrl": "https://news.aibase.com/zh/news/31666",
+    "sourceLabel": "AIbase基地",
+    "verifiedAt": "2026-10-19",
+    "autoReviewed": true
+  },
+  {
+    "id": "2026-10-13-new-product-87a0ba87",
+    "productSlug": null,
+    "date": "2026-10-13",
+    "category": "新产品",
+    "title": "LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹",
+    "summary": "该事件确认了新的 Agent 产品、独立入口或重大工作模式已经公开发布。",
+    "impact": "为 Agent 市场增加新的产品形态或可用入口，值得纳入竞争跟踪",
+    "sourceUrl": "https://www.langchain.com/blog/agent-traces-ai-search-langsmith",
+    "sourceLabel": "LangChain：Blog（RSS）",
+    "verifiedAt": "2026-10-19",
+    "autoReviewed": true
+  },
+  {
     "id": "2026-10-12-new-product-47c0eae7",
     "productSlug": null,
     "date": "2026-10-12",

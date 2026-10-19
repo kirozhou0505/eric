@@ -6,7 +6,7 @@ window.PRODUCT_VISUALS = {
   },
   "p02-workbuddy": {
     "icon": "assets/product-icons/p02-workbuddy.svg",
-    "source": "https://download.codebuddy.cn/web/website/41d9f07cb6de7881ba06d46982d3876c0cbc1a98/assets/logo.svg",
+    "source": "https://download.codebuddy.cn/web/website/f3549c299d2e32b9331b868677ac1bfbc84d807a/assets/logo.svg",
     "status": "collected"
   },
   "p03-ai": {
@@ -155,8 +155,8 @@ window.PRODUCT_VISUALS = {
     "status": "collected"
   },
   "p37-ai-claw": {
-    "icon": "assets/product-icons/p37-ai-claw.ico",
-    "source": "https://brand.lenovo.com.cn/favicon.ico",
+    "icon": "assets/product-icons/p37-ai-claw.jpg",
+    "source": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fbrand.lenovo.com.cn%2Fbrand%2Fppn03698.html&sz=128",
     "status": "collected"
   },
   "p38-wps-claw": {
@@ -241,7 +241,7 @@ window.PRODUCT_VISUALS = {
   },
   "p49-grok-team-bots": {
     "icon": "assets/product-icons/p49-grok-team-bots.png",
-    "source": "https://x.ai/apple-icon.png?apple-icon.167itqrsbgzm4.png?dpl=1cffd398a98fa63736d58074cf7f4d98e1f804bd",
+    "source": "https://x.ai/apple-icon.png?apple-icon.167itqrsbgzm4.png?dpl=361a8c59c41d9ddf9724d434beb236b16eb00e85",
     "status": "collected"
   },
   "p50-wanyouwujie": {

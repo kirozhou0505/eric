@@ -1,5 +1,161 @@
 [
   {
+    "id": "new-product-c58c1697",
+    "title": "Lovart 正式推出 Lovart 2.0",
+    "sourceUrl": "https://mp.weixin.qq.com/s/P_PWL2S-jVh0CUMYo-700Q",
+    "sourceLabel": "AI工具集 / APPSO",
+    "sourceType": "media",
+    "discoverySource": "AI工具集",
+    "publishedAt": "2026-10-19T00:00:00.000Z",
+    "discoveredAt": "2026-10-19T07:42:14.986Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-19",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
+    "id": "new-product-4ffadf3c",
+    "title": "老百姓大药房推出自研企业级AI工作台“小丸子工作” - 东方财富",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UeER1Mkc4cUpnc2txbEN3ZURIV29nX2U3b08zNzEwNGJEalItdXdOLWs5N1VPdlBuOC1lWHMybVptcmdtN0JmcFVucHR0QTRpdmgzLXZBdWZKTmhfckNfOGtOUUk5Zw?oc=5",
+    "sourceLabel": "东方财富",
+    "sourceType": "media",
+    "publishedAt": "2026-10-16T13:20:43.000Z",
+    "discoveredAt": "2026-10-19T07:41:18.778Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-19",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-58f1b1ad",
+    "title": "“中国版OpenRouter”的基元律动开发者突破30万，推出双11充值永久有效福利",
+    "sourceUrl": "https://news.aibase.com/zh/news/31695",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-16T05:59:06.000Z",
+    "discoveredAt": "2026-10-19T07:42:14.961Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-19",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
+    "id": "new-product-54f3e9f8",
+    "title": "Meta 发布 Muse Spark Open：自称\"美国最强开源\"，两台 Mac Studio 就能跑",
+    "sourceUrl": "https://news.aibase.com/zh/news/31685",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-16T02:14:57.000Z",
+    "discoveredAt": "2026-10-19T07:42:14.963Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-19",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
+    "id": "new-product-4fe9dc6e",
+    "title": "Tessl Verifiers 正式发布，用仓库内纯文本规则检查每次 Agent 代码变更",
+    "sourceUrl": "https://tessl.io/blog/verifiers-enforce-your-repos-rules-on-every-agent-change",
+    "sourceLabel": "Tessl：产品与工程博客",
+    "sourceType": "media",
+    "publishedAt": "2026-10-14T16:00:00.000Z",
+    "discoveredAt": "2026-10-19T07:42:07.324Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 8,
+    "reviewedAt": "2026-10-19",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-d8d8e347",
+    "title": "OPPO 牵手 Manus：Find X10 系列首发会办事的 AI 智能体",
+    "sourceUrl": "https://news.aibase.com/zh/news/31631",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-14T02:38:33.000Z",
+    "discoveredAt": "2026-10-19T07:42:14.975Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-19",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-dfcef968",
+    "title": "Google 发布智能体审稿系统 Deep Review，支持多领域技术文档审查",
+    "sourceUrl": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+    "sourceLabel": "Google Research：Blog（网页）",
+    "sourceType": "media",
+    "publishedAt": "2026-10-14T00:00:00.000Z",
+    "discoveredAt": "2026-10-19T07:42:07.324Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-19",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-87a0ba87",
+    "title": "LangSmith 推出 AI Search，用自然语言按行为搜索 agent 轨迹",
+    "sourceUrl": "https://www.langchain.com/blog/agent-traces-ai-search-langsmith",
+    "sourceLabel": "LangChain：Blog（RSS）",
+    "sourceType": "media",
+    "publishedAt": "2026-10-13T12:59:12.000Z",
+    "discoveredAt": "2026-10-19T07:42:07.324Z",
+    "status": "accepted_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-19",
+    "reviewReason": "自动审核：官方一手信源确认新 Agent 产品或独立入口"
+  },
+  {
     "id": "new-product-47c0eae7",
     "title": "蚂蚁“灵光”开启新版内测，对标Meta Muse升级个人智能体",
     "sourceUrl": "https://news.aibase.com/zh/news/31550",
@@ -1861,179 +2017,5 @@
     "score": 2,
     "reviewedAt": "2026-08-31",
     "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-a561cf2e",
-    "title": "阿里发布全新Qoder，从AI编程工具升级为智能体工作台 - 搜狐网",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRXhaVWVkLUkwYUxaelNiYnVSSFBPNXhyMVdNX1hWakplcjhXUHMwckZhRnVxRnVJendCcXBZZ28xczJiQ25qUmRQdWxKWU1ZdXVva0xITE1wTTI3WVlEX2lzb1FYRU01aTItVVBGblYzanB1STBCS0ZlV2pXWXFPTVpoQjlOdS1q?oc=5",
-    "sourceLabel": "搜狐网",
-    "sourceType": "media",
-    "publishedAt": "2026-08-27T05:57:22.000Z",
-    "discoveredAt": "2026-08-31T08:35:43.021Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-db29d3c3",
-    "title": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
-    "sourceUrl": "https://news.aibase.com/zh/news/30665",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-08-27T05:56:08.000Z",
-    "discoveredAt": "2026-08-31T08:37:22.852Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
-  },
-  {
-    "id": "new-product-ad15d6e5",
-    "title": "阿里发布全新Qoder 一款面向所有人的智能体工作台 - 东方财富",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vYWoyR0EtVVoxa3RjaG54b0VxOW15VlVZc3kzZmdTNXFmaWYwSW94d0V1NGxOTzhGd0RhU19Pa2FudTFxLWh0MmY4YVA1OU5jbDNlcGdpWVRTM3hTb1VtNw?oc=5",
-    "sourceLabel": "东方财富",
-    "sourceType": "media",
-    "publishedAt": "2026-08-27T05:53:43.000Z",
-    "discoveredAt": "2026-08-31T08:35:43.021Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-769380df",
-    "title": "阿里发布全新Qoder 一款面向所有人的智能体工作台 - t.cj.sina.cn",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTRC1keEFhYWFfTG9keU5zM0VNeVNWWGlHVU5fUUFhV1pYQ3VhV2pXaXhydW80TjY5WGxxXzZpOGhRTWxMQkFKQkZwaW5zU0lvVmVzV0Z3cEY0djBIUzRoWHZBb29nOTk4RzV3WlI1UlI?oc=5",
-    "sourceLabel": "t.cj.sina.cn",
-    "sourceType": "media",
-    "publishedAt": "2026-08-27T05:33:14.000Z",
-    "discoveredAt": "2026-08-31T08:35:43.021Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-6d2f36c7",
-    "title": "浏览器效率工具再升级！Anthropic向全体付费用户全面开放Claude浏览器扩展",
-    "sourceUrl": "https://news.aibase.com/zh/news/30647",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-08-27T00:54:19.000Z",
-    "discoveredAt": "2026-08-31T08:37:22.856Z",
-    "status": "promoted_manual",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 3,
-    "reviewedAt": "2026-09-01",
-    "reviewReason": "人工复核：Anthropic 官方确认 Claude in Chrome 面向所有付费方案全面开放，已发布"
-  },
-  {
-    "id": "new-product-d00340cf",
-    "title": "飞书与豆包合并后首款Agent产品\"豆包工作\"发布",
-    "sourceUrl": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685540&idx=1&sn=601bd8669d18bf0b4c9a9e88af421797",
-    "sourceLabel": "公众号：数字生命卡兹克",
-    "sourceType": "media",
-    "publishedAt": "2026-08-25T03:19:09.000Z",
-    "discoveredAt": "2026-08-31T08:36:54.116Z",
-    "status": "promoted_manual",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-09-01",
-    "reviewReason": "人工复核：飞书官网已确认豆包工作产品定位、入口与企业知识能力，已发布"
-  },
-  {
-    "id": "new-product-7683e71a",
-    "title": "Meta计划于未来数周推出“Hatch”AI智能体平台 - finance.sina.com.cn",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LcC1wREEzcHcxQm9GTXJ0U2ZoaWgzZkhSS3RraGNaaGpXdU9GclRjTGFGZTJPWXRldFdzSExLY1A1RVotWVBkSE51azZtb3VaaGtQTFNvLWdOemFORG9jUUtoZHIyZFVKTEJEQTVqZw?oc=5",
-    "sourceLabel": "finance.sina.com.cn",
-    "sourceType": "media",
-    "publishedAt": "2026-08-24T23:14:19.000Z",
-    "discoveredAt": "2026-08-31T08:35:43.274Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-e5963268",
-    "title": "Meta计划于未来数周推出“Hatch”AI智能体平台 - finance.sina.com.cn",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWDZEbWFiTWJRajhsUTRlRGZjVW1zdGs2cnVIQUtoQ0FwQjlvajJrRzRTYm5tSG5hM1p4dldrY3UxR0ZqZlJ5VzcxdmhldGFFWmhwOGFaQi1EM09qZjJWNU5FUlhUZ05LSzdLUE1CVVVoUGRlNm1oeEFrM3ZWMGs0WGswdHc?oc=5",
-    "sourceLabel": "finance.sina.com.cn",
-    "sourceType": "media",
-    "publishedAt": "2026-08-24T22:45:22.000Z",
-    "discoveredAt": "2026-08-31T08:35:43.274Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-588ea47",
-    "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
-    "sourceUrl": "https://news.aibase.com/zh/news/30522",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-08-21T02:58:17.000Z",
-    "discoveredAt": "2026-08-24T03:14:45.161Z",
-    "status": "rejected_manual",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 6,
-    "reviewedAt": "2026-09-01",
-    "reviewReason": "人工复核：与 Anthropic 官方候选重复，保留官方一手来源版本"
   }
 ]
