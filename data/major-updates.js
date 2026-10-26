@@ -1,5 +1,18 @@
 window.MAJOR_UPDATES = [
   {
+    "id": "2026-10-20-p02-workbuddy-b3120848",
+    "productSlug": "p02-workbuddy",
+    "date": "2026-10-20",
+    "category": "重大版本",
+    "title": "小米 MiMo-V2.6-Pro 正式上线 WorkBuddy，支持 1M 超长上下文多智能体分工协作等",
+    "summary": "WorkBuddy（腾讯） 出现新的关键能力变化、明确事件词。自动审核确认其信源和事件强度达到正式时间线的收录标准。",
+    "impact": "新增关键能力并改变产品使用方式",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKaDJ2amM1MHByRVpvZU9pY3FmbmpQVjExOEJwM3dnM285OHZvajdIVUhGb01QOVRiQjJLZ3FZcEV3RVVrX0tPN0lxWmZNaGpwSWY2VEg3U2Q1SzNKLXB5UWtMUHozOWc5OGRPeUVpMDJOWFlrSFdXWlhJUHhIMlU?oc=5",
+    "sourceLabel": "新浪财经",
+    "verifiedAt": "2026-10-26",
+    "autoReviewed": true
+  },
+  {
     "id": "2026-10-15-p09-marvis-76c370bf",
     "productSlug": "p09-marvis",
     "date": "2026-10-15",

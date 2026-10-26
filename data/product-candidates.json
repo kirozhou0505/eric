@@ -1,5 +1,222 @@
 [
   {
+    "id": "new-product-94ebf5cb",
+    "title": "小米发布150元开源硬件 HachimoDock，打造万能AI桌宠与桌面Agent中控",
+    "sourceUrl": "https://news.aibase.com/zh/news/31864",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-26T05:57:49.000Z",
+    "discoveredAt": "2026-10-26T07:44:44.953Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-26",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-5c06512",
+    "title": "首发！佛燃科技推出燃气行业专属智能体工作台等创新成果 - 同花顺",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9STXZjclJDTWZBeFdmajFXWUpVSEUyVzgyOHRwS05Sc0FOekVXV0l1bGlpZFdLcDI2YTV0Y2VjeFA4R2JSRGc2bDRqLVZCVGF2QVFpTTdzRDhyNnRnY21ZNUtR?oc=5",
+    "sourceLabel": "同花顺",
+    "sourceType": "media",
+    "publishedAt": "2026-10-23T10:53:20.000Z",
+    "discoveredAt": "2026-10-26T07:43:22.493Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-26",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-87da9833",
+    "title": "OpenAI 全面开放决策 API：基于 GPT-6 Luna，输入每百万 token 仅 0.1 美元",
+    "sourceUrl": "https://news.aibase.com/zh/news/31819",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-23T01:53:53.000Z",
+    "discoveredAt": "2026-10-26T07:44:44.961Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 3,
+    "reviewedAt": "2026-10-26",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
+    "id": "new-product-86da96a0",
+    "title": "OpenAI 全面开放决策 API：GPT‑6 Luna 上阵，输入百万 token 仅 0.1 美元",
+    "sourceUrl": "https://news.aibase.com/zh/news/31818",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-23T01:37:25.000Z",
+    "discoveredAt": "2026-10-26T07:44:44.961Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 3,
+    "reviewedAt": "2026-10-26",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
+    "id": "new-product-ae5d596c",
+    "title": "Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体",
+    "sourceUrl": "https://replit.com/blog/replit-monitoring-agent",
+    "sourceLabel": "Replit：Blog（RSS）",
+    "sourceType": "media",
+    "publishedAt": "2026-10-22T20:24:13.000Z",
+    "discoveredAt": "2026-10-26T07:44:28.931Z",
+    "status": "rejected_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-26",
+    "reviewReason": "自动审核：属于传闻、资本噪音、榜单政策或非产品事件"
+  },
+  {
+    "id": "new-product-466f38b7",
+    "title": "OpenAI与谷歌云宣布合作，GPT-6 Astra将上线Model Garden",
+    "sourceUrl": "https://openai.com/zh-Hans-CN/index/openai-models-google-cloud/",
+    "sourceLabel": "AI工具集 / OpenAI",
+    "sourceType": "media",
+    "discoverySource": "AI工具集",
+    "publishedAt": "2026-10-22T00:00:00.000Z",
+    "discoveredAt": "2026-10-26T07:44:44.974Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-26",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
+    "id": "new-product-5a417d1c",
+    "title": "AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列",
+    "sourceUrl": "https://news.aibase.com/zh/news/31757",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-20T09:09:37.000Z",
+    "discoveredAt": "2026-10-26T07:44:44.969Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 0,
+    "reviewedAt": "2026-10-26",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
+    "id": "new-product-57417863",
+    "title": "90 天不上线免买单！Mastra 推出全新服务 Launch：以“对赌”承诺加速 AI 智能体企业级落地",
+    "sourceUrl": "https://news.aibase.com/zh/news/31752",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-20T07:42:59.000Z",
+    "discoveredAt": "2026-10-26T07:44:44.970Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-26",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-5779fa5c",
+    "title": "Databricks 发布 MemCurrent 生产级 Agent 持久记忆架构",
+    "sourceUrl": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
+    "sourceLabel": "Databricks：Blog（RSS）",
+    "sourceType": "media",
+    "publishedAt": "2026-10-20T00:00:00.000Z",
+    "discoveredAt": "2026-10-26T07:44:28.931Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-26",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-6ea937ad",
+    "title": "MiniMax 推出新一代 Flash 模型 MiniMax M3.1 Flash",
+    "sourceUrl": "https://mp.weixin.qq.com/s/fO9snz_lnPxVg0q55chDFg",
+    "sourceLabel": "AI工具集 / MiniMax 稀宇科技",
+    "sourceType": "media",
+    "discoverySource": "AI工具集",
+    "publishedAt": "2026-10-20T00:00:00.000Z",
+    "discoveredAt": "2026-10-26T07:44:44.975Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-26",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
+    "id": "new-product-7c2e1efc",
+    "title": "腾讯推出 AI 趣味学习社区「懂了鸭」",
+    "sourceUrl": "https://ai-bot.cn/dongleya/",
+    "sourceLabel": "AI工具集",
+    "sourceType": "media",
+    "discoverySource": "AI工具集",
+    "publishedAt": "2026-10-20T00:00:00.000Z",
+    "discoveredAt": "2026-10-26T07:44:44.975Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-10-26",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
     "id": "new-product-c58c1697",
     "title": "Lovart 正式推出 Lovart 2.0",
     "sourceUrl": "https://mp.weixin.qq.com/s/P_PWL2S-jVh0CUMYo-700Q",
@@ -1884,138 +2101,5 @@
     "score": 2,
     "reviewedAt": "2026-09-01",
     "reviewReason": "人工复核：Qoder 官方博客确认 Agent Desktop 从编码工具升级为通用任务工作台，已发布"
-  },
-  {
-    "id": "new-product-61e9629b",
-    "title": "全新Qoder登场！阿里推出面向所有人的智能体工作台 - 驱动之家",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yWlJYemZPYTFwZW1mV1J5VGNWeGp5enhvZFBOQlF2dXZEdUFCcVRBcV9DSXpSZHp3R1pvOVpHb0tmbEc1dFc5OGI4YWU5TktQN0lsTW9LRnM?oc=5",
-    "sourceLabel": "驱动之家",
-    "sourceType": "media",
-    "publishedAt": "2026-08-27T07:17:00.000Z",
-    "discoveredAt": "2026-08-31T08:35:43.021Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-fde21e7a",
-    "title": "全新Qoder登场！阿里推出面向所有人的智能体工作台 - 新浪财经",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZQTFScjljYjNKbUYzQ3llcV9STGRJdGllM1hweml3dE1ENzF1cnFDT0xiY3hEdEx3cG1EQzFNdXJMLXRjV1JaempScnBjN01CeGlxTURFYW95UF9CNkVLMG81Zm0tUEtEcTlyVXZzUVpkWmt4c1ZaUWxfY3BzUFk?oc=5",
-    "sourceLabel": "新浪财经",
-    "sourceType": "media",
-    "publishedAt": "2026-08-27T07:17:00.000Z",
-    "discoveredAt": "2026-08-31T08:35:43.021Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-a2049d7b",
-    "title": "阿里发布全新Qoder智能体工作台 支持自然语言开发 - 观点网",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WdTBVbGRaenl2OGxqVFJmZllpZWFHY2QyZFZwMGdfQ0N3bmh2ZzFsU3I2Z1RjN0k2U041US1BWGNqdEp6TlFwR2NFMHJqQXNNZlJXYTBITXE4MlBLRnVLbjZB?oc=5",
-    "sourceLabel": "观点网",
-    "sourceType": "media",
-    "publishedAt": "2026-08-27T06:23:08.000Z",
-    "discoveredAt": "2026-08-31T08:35:43.021Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-a39af16c",
-    "title": "阿里发布全新Qoder智能体工作台 内置Qwen3.8-Max等多款前沿模型 - 品玩",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNeEZVR2kydnVkb0p5N3A1N25KMFR2eU9CLUFydnlQMlNSM2g1ZWx3c1lEb3ZibWF5LXBWREl4cEVDV29wLUFYXw?oc=5",
-    "sourceLabel": "品玩",
-    "sourceType": "media",
-    "publishedAt": "2026-08-27T06:21:33.000Z",
-    "discoveredAt": "2026-08-31T08:35:43.021Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-44e3a0",
-    "title": "阿里发布全新Qoder，从AI编程工具升级为智能体工作台 - 凤凰网科技",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Rc1hxZ2h6V3VXUVFtbmtGZkhkQXJPbUpmbUNiNGVZaWZHTlVEMmplR0VPcVU1NUdJNW5Cb1ZnMUNMWWI2aUN4Uk1EYjk?oc=5",
-    "sourceLabel": "凤凰网科技",
-    "sourceType": "media",
-    "publishedAt": "2026-08-27T06:05:10.000Z",
-    "discoveredAt": "2026-08-31T08:35:43.021Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-4f8af11c",
-    "title": "阿里发布全新Qoder，升级为智能体工作台 - t.cj.sina.cn",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IbkQyOElDNWRkcE9EVjFKcFpxUUk0Q0pULVFuUXN6MUZCSkpfTS1jelJVTmxrYmljS3ljaHh6Z1ppajRnSFNPUnVXQnc5cDJ5Nkw0bTBPVGxDLWI0V25OMWZZcXFBZEFtUTBvdHpSNzQ?oc=5",
-    "sourceLabel": "t.cj.sina.cn",
-    "sourceType": "media",
-    "publishedAt": "2026-08-27T06:03:58.000Z",
-    "discoveredAt": "2026-08-31T08:35:43.021Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-53817b41",
-    "title": "阿里发布全新Qoder：面向所有人的智能体工作台 - 搜狐网",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQnY3N3NRaVkwZHA2ckg5RjRGNVFkOTNTUUQ2elE5RExOTUF2TU5yd0hpRV9JcnZZeks3djdLU2tuQ3BTRXJHbXo3dHZfQ19hQ09NN3FXVllRM1QyWTh2SEVac3ItN2dPNGJwQ2tsdUJNZjBCTEZNS1RqOTV5dkk0cGlqckxGREtJ?oc=5",
-    "sourceLabel": "搜狐网",
-    "sourceType": "media",
-    "publishedAt": "2026-08-27T06:01:00.000Z",
-    "discoveredAt": "2026-08-31T08:35:43.021Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
   }
 ]

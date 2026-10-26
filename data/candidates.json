@@ -144,6 +144,26 @@
     "reviewReason": "人工审核：Qoder Cloud Agents 是明确的云端 Agent 产品/能力体系，已补入产品库与重大动态"
   },
   {
+    "id": "p02-workbuddy-4bb97468",
+    "productSlug": "p02-workbuddy",
+    "productName": "WorkBuddy（腾讯）",
+    "title": "小米MiMo-V2.6-Pro正式上线WorkBuddy，支持1M超长上下文多智能体分工协作等|xiaomi|模型|缓存|价格|定价_手机新浪网 - finance.sina.com.cn",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOcHc2anpHQTFMQXN1RldUeWJOODlUc3VDc1hhVGppUC1NODVjZmI3THlWYWEtRTdtNnZQV0h6MVVHZmJnVURHSmM2N040blhsUjlkMjBGQ1pxVUNSUzVwUmQ3SVhQem5PVkh2Tm9SMmlfdjJrc09tU00tT084OHEtMnNXbGg4N1J6QXNMWFg4QW1hYW5OZnNCWUtyRXJQdng0YjNxOHN1Rlp4Wlg4ck1GWE9ROGNPMUdpTEhqZm1YMmwwNjJpaUo0SGY1b0xGR0I1S1daY3JtSG9QeVI2b0lkbG5BcldGR0w5YWFCZVRDRzRhWmF6VlpxajhHeWxEcEVBX0RJLV84Nk1hWkVJMFdCN0otSEdhT0tKWk94bERSMzZDNUg3b1o2cnVtTTBnNUFuM0E?oc=5",
+    "sourceLabel": "finance.sina.com.cn",
+    "sourceType": "media",
+    "publishedAt": "2026-10-20T17:51:42.000Z",
+    "discoveredAt": "2026-10-26T07:43:15.658Z",
+    "score": 9,
+    "reasons": [
+      "关键能力变化 +4",
+      "商业或开放范围变化 +3",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-26",
+    "reviewReason": "自动审核：事件可能相关，但信源或事件强度仍需复核"
+  },
+  {
     "id": "p14-qclaw-b2d05fc0",
     "productSlug": "p14-qclaw",
     "productName": "Qclaw（腾讯）",
@@ -162,6 +182,25 @@
     "status": "accepted_auto",
     "reviewedAt": "2026-09-28",
     "reviewReason": "自动审核：可信媒体、产品关联明确且属于重大变化"
+  },
+  {
+    "id": "p47-openai-dots-840cf71c",
+    "productSlug": "p47-openai-dots",
+    "productName": "OpenAI Dots",
+    "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
+    "sourceUrl": "https://openai.com/index/decisions-api",
+    "sourceLabel": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "sourceType": "media",
+    "publishedAt": "2026-10-22T19:00:00.000Z",
+    "discoveredAt": "2026-10-26T07:44:23.044Z",
+    "score": 8,
+    "reasons": [
+      "产品发布或停止运营 +6",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-26",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
   },
   {
     "id": "p08-manus-manus-a03504f2",
@@ -677,6 +716,63 @@
     ],
     "status": "deferred_auto",
     "reviewedAt": "2026-07-27",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
+  },
+  {
+    "id": "p02-workbuddy-1e0ee795",
+    "productSlug": "p02-workbuddy",
+    "productName": "WorkBuddy（腾讯）",
+    "title": "Xiaomi MiMo-V2.6-Pro正式上线WorkBuddy：全球开源第一，支持1M超长上下文和多智能体分工协作，图像、视频、音频、文本可以联合理解 - 凤凰网",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wcDVYbTdHY2RxTWdKWlpaT3d1eS0tRVF1ZVJaX0M4Skc1VWlHd3VQUGhoZm1ScWFad00tejVGTUtzdEU4bjRwUVBnVTA?oc=5",
+    "sourceLabel": "凤凰网",
+    "sourceType": "media",
+    "publishedAt": "2026-10-20T12:16:25.000Z",
+    "discoveredAt": "2026-10-26T07:43:15.659Z",
+    "score": 6,
+    "reasons": [
+      "关键能力变化 +4",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-26",
+    "reviewReason": "自动审核：事件可能相关，但信源或事件强度仍需复核"
+  },
+  {
+    "id": "p02-workbuddy-b3120848",
+    "productSlug": "p02-workbuddy",
+    "productName": "WorkBuddy（腾讯）",
+    "title": "小米 MiMo-V2.6-Pro 正式上线 WorkBuddy，支持 1M 超长上下文多智能体分工协作等 - 新浪财经",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKaDJ2amM1MHByRVpvZU9pY3FmbmpQVjExOEJwM3dnM285OHZvajdIVUhGb01QOVRiQjJLZ3FZcEV3RVVrX0tPN0lxWmZNaGpwSWY2VEg3U2Q1SzNKLXB5UWtMUHozOWc5OGRPeUVpMDJOWFlrSFdXWlhJUHhIMlU?oc=5",
+    "sourceLabel": "新浪财经",
+    "sourceType": "media",
+    "publishedAt": "2026-10-20T11:50:45.000Z",
+    "discoveredAt": "2026-10-26T07:43:15.658Z",
+    "score": 6,
+    "reasons": [
+      "关键能力变化 +4",
+      "明确事件词 +2"
+    ],
+    "status": "accepted_auto",
+    "reviewedAt": "2026-10-26",
+    "reviewReason": "自动审核：可信媒体、产品关联明确且属于重大变化"
+  },
+  {
+    "id": "p44-openclaw-269e8c3c",
+    "productSlug": "p44-openclaw",
+    "productName": "OpenClaw",
+    "title": "Databricks 发布 MemCurrent 生产级 Agent 持久记忆架构",
+    "sourceUrl": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
+    "sourceLabel": "Databricks：Blog（RSS）",
+    "sourceType": "media",
+    "publishedAt": "2026-10-20T00:00:00.000Z",
+    "discoveredAt": "2026-10-26T07:44:20.591Z",
+    "score": 6,
+    "reasons": [
+      "关键能力变化 +4",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-26",
     "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
   },
   {
@@ -1774,6 +1870,44 @@
     "status": "deferred_auto",
     "reviewedAt": "2026-06-08",
     "reviewReason": "自动审核：事件可能相关，但信源或事件强度不足以无人值守发布"
+  },
+  {
+    "id": "p43-kimi-work-e0ee32e5",
+    "productSlug": "p43-kimi-work",
+    "productName": "Kimi Work（月之暗面）",
+    "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+    "sourceUrl": "https://x.com/OpenRouter/status/2113699820124934334",
+    "sourceLabel": "X：OpenRouter (@OpenRouter)",
+    "sourceType": "media",
+    "publishedAt": "2026-10-23T18:31:22.000Z",
+    "discoveredAt": "2026-10-26T07:44:13.632Z",
+    "score": 5,
+    "reasons": [
+      "商业或开放范围变化 +3",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-26",
+    "reviewReason": "自动审核：事件可能相关，但信源或事件强度仍需复核"
+  },
+  {
+    "id": "p43-kimi-work-78ef850d",
+    "productSlug": "p43-kimi-work",
+    "productName": "Kimi Work（月之暗面）",
+    "title": "Google 发布 vLLM 与 SGLang 的 TorchTPU 原生推理引擎",
+    "sourceUrl": "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
+    "sourceLabel": "Google Developers Blog（RSS）",
+    "sourceType": "media",
+    "publishedAt": "2026-10-19T16:00:00.000Z",
+    "discoveredAt": "2026-10-26T07:44:13.632Z",
+    "score": 5,
+    "reasons": [
+      "商业或开放范围变化 +3",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-10-26",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
   },
   {
     "id": "p12-codex-open-ai-83f0b16b",
