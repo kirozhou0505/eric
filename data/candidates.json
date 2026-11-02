@@ -719,6 +719,64 @@
     "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
   },
   {
+    "id": "p02-workbuddy-8001a49c",
+    "productSlug": "p02-workbuddy",
+    "productName": "WorkBuddy（腾讯）",
+    "title": "腾讯WorkBuddy上线「远程控制」：手机可实时观看并接管电脑桌面，远程操作不消耗Token",
+    "sourceUrl": "https://news.aibase.com/zh/news/31926",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-28T07:39:40.000Z",
+    "discoveredAt": "2026-11-02T09:23:21.575Z",
+    "score": 6,
+    "reasons": [
+      "关键能力变化 +4",
+      "明确事件词 +2"
+    ],
+    "status": "accepted_auto",
+    "reviewedAt": "2026-11-02",
+    "reviewReason": "自动审核：可信媒体、产品关联明确且属于重大变化"
+  },
+  {
+    "id": "p02-workbuddy-949626c0",
+    "productSlug": "p02-workbuddy",
+    "productName": "WorkBuddy（腾讯）",
+    "title": "腾讯WorkBuddy正式上线“远程控制”功能 - 富途牛牛",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vWDJwaXVjUzdsNlJRVHpmQXg5Q3BjNkF1N3hmYlBGTG9heDU2UDVqQjJGMmlqaXFjbjYyRmRxMnRVS3k2eC1DSHZWeXZqTjRSNWdvOQ?oc=5",
+    "sourceLabel": "富途牛牛",
+    "sourceType": "media",
+    "publishedAt": "2026-10-28T05:38:05.000Z",
+    "discoveredAt": "2026-11-02T09:21:40.022Z",
+    "score": 6,
+    "reasons": [
+      "关键能力变化 +4",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-11-02",
+    "reviewReason": "自动审核：事件可能相关，但信源或事件强度仍需复核"
+  },
+  {
+    "id": "p02-workbuddy-8b025e60",
+    "productSlug": "p02-workbuddy",
+    "productName": "WorkBuddy（腾讯）",
+    "title": "腾讯WorkBuddy手机远程控制电脑功能上线，实时显示屏幕内容 - 搜狐网",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81UktrRnhlZG96cGJjVGdTUGw3S204Z3VwNVRYNWlDTkV2NXRRUWIwVy16TzBnNkhzRDl5ZlBvS1JSbFZvX1cwRHVNdEtHNHFxeDVHUFVPZWU0aXk0eHRGUw?oc=5",
+    "sourceLabel": "搜狐网",
+    "sourceType": "media",
+    "publishedAt": "2026-10-28T05:05:00.000Z",
+    "discoveredAt": "2026-11-02T09:21:40.022Z",
+    "score": 6,
+    "reasons": [
+      "关键能力变化 +4",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-11-02",
+    "reviewReason": "自动审核：事件可能相关，但信源或事件强度仍需复核"
+  },
+  {
     "id": "p02-workbuddy-1e0ee795",
     "productSlug": "p02-workbuddy",
     "productName": "WorkBuddy（腾讯）",
@@ -1870,6 +1928,46 @@
     "status": "deferred_auto",
     "reviewedAt": "2026-06-08",
     "reviewReason": "自动审核：事件可能相关，但信源或事件强度不足以无人值守发布"
+  },
+  {
+    "id": "p02-workbuddy-87f4e541",
+    "productSlug": "p02-workbuddy",
+    "productName": "WorkBuddy（腾讯）",
+    "title": "消息称腾讯WorkBuddy开放平台内测Skill变现功能，开发者可自主定价",
+    "sourceUrl": "https://news.aibase.com/zh/news/31958",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-29T07:08:31.000Z",
+    "discoveredAt": "2026-11-02T09:23:21.570Z",
+    "score": 5,
+    "reasons": [
+      "商业或开放范围变化 +3",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-11-02",
+    "reviewReason": "自动审核：事件可能相关，但信源或事件强度仍需复核"
+  },
+  {
+    "id": "p12-codex-open-ai-f70307e9",
+    "productSlug": "p12-codex-open-ai",
+    "productName": "Codex桌面版（Open AI）",
+    "title": "甲骨文把 ChatGPT 和 Codex 塞进自家应用，数据库从此能听懂人话",
+    "sourceUrl": "https://news.aibase.com/zh/news/31908",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-28T01:03:09.000Z",
+    "discoveredAt": "2026-11-02T09:23:21.579Z",
+    "score": 5,
+    "reasons": [
+      "商业或开放范围变化 +3",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-11-02",
+    "reviewReason": "自动审核：事件可能相关，但信源或事件强度仍需复核"
   },
   {
     "id": "p43-kimi-work-e0ee32e5",

@@ -6,7 +6,7 @@ window.PRODUCT_VISUALS = {
   },
   "p02-workbuddy": {
     "icon": "assets/product-icons/p02-workbuddy.svg",
-    "source": "https://download.codebuddy.cn/web/website/a5b2fb510f0e7b156f19d072fae0cd12ae1f2f19/assets/logo.svg",
+    "source": "https://download.codebuddy.cn/web/website/ef3f61071769c4eb251eaf348beccaa512218f3d/assets/logo.svg",
     "status": "collected"
   },
   "p03-ai": {
@@ -105,7 +105,7 @@ window.PRODUCT_VISUALS = {
     "status": "collected"
   },
   "p20-kimi-claw": {
-    "icon": "assets/product-icons/p20-kimi-claw.png",
+    "icon": "assets/product-icons/p20-kimi-claw.jpg",
     "source": "https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fwww.kimi.com%2Fresources%2Fkimi-claw-introduction&sz=128",
     "status": "collected"
   },
@@ -241,7 +241,7 @@ window.PRODUCT_VISUALS = {
   },
   "p49-grok-team-bots": {
     "icon": "assets/product-icons/p49-grok-team-bots.png",
-    "source": "https://x.ai/apple-icon.png?apple-icon.167itqrsbgzm4.png?dpl=3a4bcbb9cbd7a588efa9b97a791e7abf21fb5dea",
+    "source": "https://x.ai/apple-icon.png?apple-icon.167itqrsbgzm4.png?dpl=af359b1b72c8c742f2ffe1a18ddbe4508d7d7af1",
     "status": "collected"
   },
   "p50-wanyouwujie": {

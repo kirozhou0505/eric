@@ -1,42 +1,40 @@
-# 2026-10-26 自动审核记录
+# 2026-11-02 自动审核记录
 
 运行时区：Asia/Shanghai
 
-- 自动正式收录：1 条
-- 自动暂缓：16 条
-- 自动拒绝：1 条
+- 自动正式收录：2 条
+- 自动暂缓：13 条
+- 自动拒绝：0 条
 
 ## 自动正式收录
 
 | 产品 | 事件 | 结论 |
 |---|---|---|
-| WorkBuddy（腾讯） | [小米 MiMo-V2.6-Pro 正式上线 WorkBuddy，支持 1M 超长上下文多智能体分工协作等](https://news.google.com/rss/articles/CBMif0FVX3lxTFBKaDJ2amM1MHByRVpvZU9pY3FmbmpQVjExOEJwM3dnM285OHZvajdIVUhGb01QOVRiQjJLZ3FZcEV3RVVrX0tPN0lxWmZNaGpwSWY2VEg3U2Q1SzNKLXB5UWtMUHozOWc5OGRPeUVpMDJOWFlrSFdXWlhJUHhIMlU?oc=5) | 自动审核：可信媒体、产品关联明确且属于重大变化 |
+| WorkBuddy（腾讯） | [腾讯WorkBuddy上线「远程控制」：手机可实时观看并接管电脑桌面，远程操作不消耗Token](https://news.aibase.com/zh/news/31926) | 自动审核：可信媒体、产品关联明确且属于重大变化 |
+| 新产品候选 | [AI 记忆不再"各自为政"：腾讯网盘启动内测，要做智能体的共享大脑](https://news.aibase.com/zh/news/31942) | 自动审核：可信媒体确认，且新产品与重大变化信号明确 |
 
 ## 自动暂缓
 
 | 产品 | 事件 | 结论 |
 |---|---|---|
-| WorkBuddy（腾讯） | [小米MiMo-V2.6-Pro正式上线WorkBuddy，支持1M超长上下文多智能体分工协作等|xiaomi|模型|缓存|价格|定价_手机新浪网](https://news.google.com/rss/articles/CBMisgJBVV95cUxOcHc2anpHQTFMQXN1RldUeWJOODlUc3VDc1hhVGppUC1NODVjZmI3THlWYWEtRTdtNnZQV0h6MVVHZmJnVURHSmM2N040blhsUjlkMjBGQ1pxVUNSUzVwUmQ3SVhQem5PVkh2Tm9SMmlfdjJrc09tU00tT084OHEtMnNXbGg4N1J6QXNMWFg4QW1hYW5OZnNCWUtyRXJQdng0YjNxOHN1Rlp4Wlg4ck1GWE9ROGNPMUdpTEhqZm1YMmwwNjJpaUo0SGY1b0xGR0I1S1daY3JtSG9QeVI2b0lkbG5BcldGR0w5YWFCZVRDRzRhWmF6VlpxajhHeWxEcEVBX0RJLV84Nk1hWkVJMFdCN0otSEdhT0tKWk94bERSMzZDNUg3b1o2cnVtTTBnNUFuM0E?oc=5) | 自动审核：事件可能相关，但信源或事件强度仍需复核 |
-| OpenAI Dots | [OpenAI 正式发布 Decisions API，面向低延迟低成本小决策](https://openai.com/index/decisions-api) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
-| WorkBuddy（腾讯） | [Xiaomi MiMo-V2.6-Pro正式上线WorkBuddy：全球开源第一，支持1M超长上下文和多智能体分工协作，图像、视频、音频、文本可以联合理解](https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wcDVYbTdHY2RxTWdKWlpaT3d1eS0tRVF1ZVJaX0M4Skc1VWlHd3VQUGhoZm1ScWFad00tejVGTUtzdEU4bjRwUVBnVTA?oc=5) | 自动审核：事件可能相关，但信源或事件强度仍需复核 |
-| OpenClaw | [Databricks 发布 MemCurrent 生产级 Agent 持久记忆架构](https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
-| Kimi Work（月之暗面） | [月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型](https://x.com/OpenRouter/status/2113699820124934334) | 自动审核：事件可能相关，但信源或事件强度仍需复核 |
-| Kimi Work（月之暗面） | [Google 发布 vLLM 与 SGLang 的 TorchTPU 原生推理引擎](https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
-| 新产品候选 | [小米发布150元开源硬件 HachimoDock，打造万能AI桌宠与桌面Agent中控](https://news.aibase.com/zh/news/31864) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [首发！佛燃科技推出燃气行业专属智能体工作台等创新成果](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9STXZjclJDTWZBeFdmajFXWUpVSEUyVzgyOHRwS05Sc0FOekVXV0l1bGlpZFdLcDI2YTV0Y2VjeFA4R2JSRGc2bDRqLVZCVGF2QVFpTTdzRDhyNnRnY21ZNUtR?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [OpenAI 全面开放决策 API：基于 GPT-6 Luna，输入每百万 token 仅 0.1 美元](https://news.aibase.com/zh/news/31819) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
-| 新产品候选 | [OpenAI 全面开放决策 API：GPT‑6 Luna 上阵，输入百万 token 仅 0.1 美元](https://news.aibase.com/zh/news/31818) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
-| 新产品候选 | [OpenAI与谷歌云宣布合作，GPT-6 Astra将上线Model Garden](https://openai.com/zh-Hans-CN/index/openai-models-google-cloud/) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
-| 新产品候选 | [AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列](https://news.aibase.com/zh/news/31757) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
-| 新产品候选 | [90 天不上线免买单！Mastra 推出全新服务 Launch：以“对赌”承诺加速 AI 智能体企业级落地](https://news.aibase.com/zh/news/31752) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [Databricks 发布 MemCurrent 生产级 Agent 持久记忆架构](https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [MiniMax 推出新一代 Flash 模型 MiniMax M3.1 Flash](https://mp.weixin.qq.com/s/fO9snz_lnPxVg0q55chDFg) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
-| 新产品候选 | [腾讯推出 AI 趣味学习社区「懂了鸭」](https://ai-bot.cn/dongleya/) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
+| WorkBuddy（腾讯） | [腾讯WorkBuddy正式上线“远程控制”功能](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vWDJwaXVjUzdsNlJRVHpmQXg5Q3BjNkF1N3hmYlBGTG9heDU2UDVqQjJGMmlqaXFjbjYyRmRxMnRVS3k2eC1DSHZWeXZqTjRSNWdvOQ?oc=5) | 自动审核：事件可能相关，但信源或事件强度仍需复核 |
+| WorkBuddy（腾讯） | [腾讯WorkBuddy手机远程控制电脑功能上线，实时显示屏幕内容](https://news.google.com/rss/articles/CBMiYEFVX3lxTE81UktrRnhlZG96cGJjVGdTUGw3S204Z3VwNVRYNWlDTkV2NXRRUWIwVy16TzBnNkhzRDl5ZlBvS1JSbFZvX1cwRHVNdEtHNHFxeDVHUFVPZWU0aXk0eHRGUw?oc=5) | 自动审核：事件可能相关，但信源或事件强度仍需复核 |
+| WorkBuddy（腾讯） | [消息称腾讯WorkBuddy开放平台内测Skill变现功能，开发者可自主定价](https://news.aibase.com/zh/news/31958) | 自动审核：事件可能相关，但信源或事件强度仍需复核 |
+| Codex桌面版（Open AI） | [甲骨文把 ChatGPT 和 Codex 塞进自家应用，数据库从此能听懂人话](https://news.aibase.com/zh/news/31908) | 自动审核：事件可能相关，但信源或事件强度仍需复核 |
+| 新产品候选 | [海亮科技发布HaiMate：懂教师的AI工作台](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SM1dpbGNOSDJIS1piNW40YmZFZ1NSY0p0YVByMWlwZjRpbHFzd2pEU0ItcW9tSlBwQW13ZjRjSXM5OEhQalNhVU1EXzd3ejAtZVY0QlhTWlBOM2N5VEhPRk93?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [海亮科技正式推出教师专属AI工作台HaiMate](https://news.google.com/rss/articles/CBMia0FVX3lxTFBJMU94SlJraFV5dDNDVEwxbHp4blloZlRBN0djQ2Z0THlWOUFRVE5TaWdCZnVydzU5WlU4UmhwYkthNG5VcmpVdnBtM0k4dXdrMEg0eS1xZFRjUTFlSi1jUVFRUVhKVWVDYWt3?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [海亮科技发布HaiMate，打造教师专属一站式AI工作台](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY2NWSWJrZE4yaEdQU19Tem5jaEpIY0o0ZVl3YmppN3JmNWRRZzVwLWpGUzlyLUpIYzM2ckNQTVZvRW05RTRqZnNzbFdvSy0tcDZMUGlZQVM3ZkZnb0hGZ3MxdzlhVUwxdGFKcFFEOFZ2eHhlZmxWLVZEU0NDdHBlcllxZGJNTHZn?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [​海亮科技发布HaiMate：为教师打造一站式AI工作台](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wMWVxVWI2TmhyMEtPNTE2U1pjQnJLdVFZdWxfUlNjemJiUjlwd0g5QW5GWUd2NXJTSk9EYmIyVFdGVEx3dHB2QUZWbWY?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [深兰科技联合华为发布全球首款大模型智能体工作手机Wowoker](https://news.aibase.com/zh/news/31970) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [腾讯发布 Buddy One:打通腾讯文档、会议、网盘与 ima，统一账号与积分池](https://news.aibase.com/zh/news/31951) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
+| 新产品候选 | [腾讯混元Hy4、Hy4flash即将发布，模型能力、思维链效率全面提升](https://news.aibase.com/zh/news/31948) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
+| 新产品候选 | [蚂蚁集团推出能管事的个人AI助理「灵光2.0」](https://mp.weixin.qq.com/s/TOyr5VqXVy_kFLBFzcf6Pg?scene=1) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
+| 新产品候选 | [蚂蚁灵光2.0发布:AI从“任务执行者”走向“事务管理者”](https://news.aibase.com/zh/news/31883) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
 
 ## 自动拒绝
 
 | 产品 | 事件 | 结论 |
 |---|---|---|
-| 新产品候选 | [Replit 发布 Monitoring Agent，为应用提供可自动修复并部署的值班智能体](https://replit.com/blog/replit-monitoring-agent) | 自动审核：属于传闻、资本噪音、榜单政策或非产品事件 |
+| 无 | 无 | 无 |
 
 > 自动审核采用分层发布策略：高可信重大事件自动进入时间线，关联不足的候选保留复核，明显噪音直接拒绝。

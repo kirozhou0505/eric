@@ -1,5 +1,201 @@
 [
   {
+    "id": "new-product-4ca4378c",
+    "title": "海亮科技发布HaiMate：懂教师的AI工作台 - 证券之星",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SM1dpbGNOSDJIS1piNW40YmZFZ1NSY0p0YVByMWlwZjRpbHFzd2pEU0ItcW9tSlBwQW13ZjRjSXM5OEhQalNhVU1EXzd3ejAtZVY0QlhTWlBOM2N5VEhPRk93?oc=5",
+    "sourceLabel": "证券之星",
+    "sourceType": "media",
+    "publishedAt": "2026-11-01T09:43:43.000Z",
+    "discoveredAt": "2026-11-02T09:21:46.730Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-02",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-d4c43540",
+    "title": "海亮科技正式推出教师专属AI工作台HaiMate - zqrb.cn",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJMU94SlJraFV5dDNDVEwxbHp4blloZlRBN0djQ2Z0THlWOUFRVE5TaWdCZnVydzU5WlU4UmhwYkthNG5VcmpVdnBtM0k4dXdrMEg0eS1xZFRjUTFlSi1jUVFRUVhKVWVDYWt3?oc=5",
+    "sourceLabel": "zqrb.cn",
+    "sourceType": "media",
+    "publishedAt": "2026-11-01T08:14:00.000Z",
+    "discoveredAt": "2026-11-02T09:21:46.730Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-02",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-25080b93",
+    "title": "海亮科技发布HaiMate，打造教师专属一站式AI工作台 - 搜狐网",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY2NWSWJrZE4yaEdQU19Tem5jaEpIY0o0ZVl3YmppN3JmNWRRZzVwLWpGUzlyLUpIYzM2ckNQTVZvRW05RTRqZnNzbFdvSy0tcDZMUGlZQVM3ZkZnb0hGZ3MxdzlhVUwxdGFKcFFEOFZ2eHhlZmxWLVZEU0NDdHBlcllxZGJNTHZn?oc=5",
+    "sourceLabel": "搜狐网",
+    "sourceType": "media",
+    "publishedAt": "2026-10-30T15:10:00.000Z",
+    "discoveredAt": "2026-11-02T09:21:46.730Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-02",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-46869abf",
+    "title": "​海亮科技发布HaiMate：为教师打造一站式AI工作台 - 凤凰网科技",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wMWVxVWI2TmhyMEtPNTE2U1pjQnJLdVFZdWxfUlNjemJiUjlwd0g5QW5GWUd2NXJTSk9EYmIyVFdGVEx3dHB2QUZWbWY?oc=5",
+    "sourceLabel": "凤凰网科技",
+    "sourceType": "media",
+    "publishedAt": "2026-10-30T09:14:15.000Z",
+    "discoveredAt": "2026-11-02T09:21:46.730Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-02",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-983985c9",
+    "title": "深兰科技联合华为发布全球首款大模型智能体工作手机Wowoker",
+    "sourceUrl": "https://news.aibase.com/zh/news/31970",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-30T01:11:24.000Z",
+    "discoveredAt": "2026-11-02T09:23:21.568Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-02",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-a33e1448",
+    "title": "腾讯发布 Buddy One:打通腾讯文档、会议、网盘与 ima，统一账号与积分池",
+    "sourceUrl": "https://news.aibase.com/zh/news/31951",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-29T03:25:17.000Z",
+    "discoveredAt": "2026-11-02T09:23:21.571Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-02",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
+    "id": "new-product-a63bda6a",
+    "title": "腾讯混元Hy4、Hy4flash即将发布，模型能力、思维链效率全面提升",
+    "sourceUrl": "https://news.aibase.com/zh/news/31948",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-29T02:28:02.000Z",
+    "discoveredAt": "2026-11-02T09:23:21.572Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-02",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
+    "id": "new-product-9c3bcaac",
+    "title": "AI 记忆不再\"各自为政\"：腾讯网盘启动内测，要做智能体的共享大脑",
+    "sourceUrl": "https://news.aibase.com/zh/news/31942",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-29T01:47:06.000Z",
+    "discoveredAt": "2026-11-02T09:23:21.573Z",
+    "status": "accepted_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 5,
+    "reviewedAt": "2026-11-02",
+    "reviewReason": "自动审核：可信媒体确认，且新产品与重大变化信号明确"
+  },
+  {
+    "id": "new-product-e522f575",
+    "title": "蚂蚁集团推出能管事的个人AI助理「灵光2.0」",
+    "sourceUrl": "https://mp.weixin.qq.com/s/TOyr5VqXVy_kFLBFzcf6Pg?scene=1",
+    "sourceLabel": "AI工具集 / 蚂蚁集团",
+    "sourceType": "media",
+    "discoverySource": "AI工具集",
+    "publishedAt": "2026-10-28T00:00:00.000Z",
+    "discoveredAt": "2026-11-02T09:23:21.585Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-02",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
+    "id": "new-product-81c945a0",
+    "title": "蚂蚁灵光2.0发布:AI从“任务执行者”走向“事务管理者”",
+    "sourceUrl": "https://news.aibase.com/zh/news/31883",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-10-27T01:58:09.000Z",
+    "discoveredAt": "2026-11-02T09:23:21.582Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-02",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
     "id": "new-product-94ebf5cb",
     "title": "小米发布150元开源硬件 HachimoDock，打造万能AI桌宠与桌面Agent中控",
     "sourceUrl": "https://news.aibase.com/zh/news/31864",
@@ -1868,238 +2064,5 @@
     "score": 2,
     "reviewedAt": "2026-09-07",
     "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
-  },
-  {
-    "id": "new-product-bf753337",
-    "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
-    "sourceUrl": "https://huggingface.co/blog/funes",
-    "sourceLabel": "Hugging Face：Blog（RSS）",
-    "sourceType": "media",
-    "publishedAt": "2026-09-03T00:00:00.000Z",
-    "discoveredAt": "2026-09-07T07:17:28.807Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-09-07",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-6fa941ba",
-    "title": "Meta 推出新一代大语言模型 Muse Spark 1.3",
-    "sourceUrl": "https://www.ithome.com/0/997/728.htm",
-    "sourceLabel": "AI工具集 / IT之家",
-    "sourceType": "media",
-    "discoverySource": "AI工具集",
-    "publishedAt": "2026-09-03T00:00:00.000Z",
-    "discoveredAt": "2026-09-07T07:18:03.027Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-09-07",
-    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
-  },
-  {
-    "id": "new-product-b9b633f2",
-    "title": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行",
-    "sourceUrl": "https://cursor.com/blog/self-hosted-machines",
-    "sourceLabel": "Cursor Blog",
-    "sourceType": "media",
-    "publishedAt": "2026-09-02T12:00:00.000Z",
-    "discoveredAt": "2026-09-07T07:17:28.807Z",
-    "status": "accepted_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-09-07",
-    "reviewReason": "自动审核：官方一手信源确认新 Agent 产品或独立入口"
-  },
-  {
-    "id": "new-product-6eec967d",
-    "title": "阿里云企业级 Agent 协作平台「万有无界」开启公测",
-    "sourceUrl": "https://mp.weixin.qq.com/s/ejt5cXJiDUBFVIKCz6pIXQ",
-    "sourceLabel": "AI工具集 / 阿里云",
-    "sourceType": "media",
-    "discoverySource": "AI工具集",
-    "publishedAt": "2026-09-02T00:00:00.000Z",
-    "discoveredAt": "2026-09-07T07:18:03.028Z",
-    "status": "accepted_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 5,
-    "reviewedAt": "2026-09-07",
-    "reviewReason": "自动审核：可信媒体确认，且新产品与重大变化信号明确"
-  },
-  {
-    "id": "new-product-fc659a41",
-    "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
-    "sourceUrl": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-    "sourceLabel": "Google DeepMind：Blog（RSS）",
-    "sourceType": "media",
-    "publishedAt": "2026-09-01T17:08:51.000Z",
-    "discoveredAt": "2026-09-07T07:17:28.807Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-09-07",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-c9f6ce66",
-    "title": "科大讯飞将发布星火X2.5通用大模型",
-    "sourceUrl": "https://news.aibase.com/zh/news/30716",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-08-31T03:49:26.000Z",
-    "discoveredAt": "2026-08-31T08:37:22.844Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
-  },
-  {
-    "id": "new-product-339a5d82",
-    "title": "开源 AI 工作台 Aivory 发布 v2.4.0：支持 MCP 协议与轻量级个人部署 - 80aj.com",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00bWVXVGY3YnU4ZS1ubXE1d2U0S3JjY0g0SHB0Nk5ERVRpOVlqUVU0YzVleDNvUGlmRldtd1ZfTG44cU9jajFveVktZjFNMkhkMTk2UDJjLWVoajNUd244?oc=5",
-    "sourceLabel": "80aj.com",
-    "sourceType": "media",
-    "publishedAt": "2026-08-29T11:02:37.000Z",
-    "discoveredAt": "2026-08-31T08:35:43.021Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 6,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-2e323537",
-    "title": "阿里发布全新Qoder 定位智能体工作台 - 腾讯新闻",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DQ3VKeTFnb291aXBaSnNEWXh2Q200aE9Ud1kyMEkzX2RnZDM4NmJ0MktYVmpfTlRGSlhlc1QxeXBvaF9uZGdSdEhncWp4ZkgxbUNTeG9R?oc=5",
-    "sourceLabel": "腾讯新闻",
-    "sourceType": "media",
-    "publishedAt": "2026-08-28T08:03:00.000Z",
-    "discoveredAt": "2026-08-31T08:35:43.021Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-691359fe",
-    "title": "Anthropic重磅发布模型硬件标准MHS，AI Agent正式迈向实体操控",
-    "sourceUrl": "https://news.aibase.com/zh/news/30693",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-08-28T06:14:09.000Z",
-    "discoveredAt": "2026-08-31T08:37:22.848Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-6a111cfa",
-    "title": "量子技术与AI迎来深度融合！国内首个“玄幂”量子增强大模型正式发布",
-    "sourceUrl": "https://news.aibase.com/zh/news/30688",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-08-28T02:16:52.000Z",
-    "discoveredAt": "2026-08-31T08:37:22.848Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 8,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
-  },
-  {
-    "id": "new-product-ecc5470",
-    "title": "阿里发布全新Qoder智能体工作台，恒生科技ETF天弘(520920)标的指数昨日小幅收跌，近5日净流入超3800万元 - finance.sina.com.cn",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5idnpDTFdIU2plNG1WSVRfcjBjWWp5Qmp1U05KZDhOTTZkYnRvRWw1ZG4wWTVlQzBkYlBJbGFjVHNHU3VPd3VCaThrYTc0cnQ5S18tVUdZMGhLMmJsUDVmaXhGRXNrc1A0bVBOcmpZQQ?oc=5",
-    "sourceLabel": "finance.sina.com.cn",
-    "sourceType": "media",
-    "publishedAt": "2026-08-28T01:18:12.000Z",
-    "discoveredAt": "2026-08-31T08:35:43.021Z",
-    "status": "rejected_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-08-31",
-    "reviewReason": "自动审核：属于传闻、资本噪音、榜单政策或非产品事件"
-  },
-  {
-    "id": "new-product-4ea85620",
-    "title": "阿里发布全新Qoder ，面向所有人的智能体工作台来了 - 雷峰网",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fajZTVHNwX2JRNlNOXy05QXg1aXBlV3dKdDlFZ2UtMklsQ25xVVFaR0ZXemM4akZPdk5PTmNNcU82NkVqYmFsb05CSlhYVWRSWWJVM0trVF9Ga3JrRmVEMEpzSTZnd2xabjQ0aDhtTHNveFp0?oc=5",
-    "sourceLabel": "雷峰网",
-    "sourceType": "media",
-    "publishedAt": "2026-08-27T07:40:00.000Z",
-    "discoveredAt": "2026-08-31T08:35:43.020Z",
-    "status": "promoted_manual",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-09-01",
-    "reviewReason": "人工复核：Qoder 官方博客确认 Agent Desktop 从编码工具升级为通用任务工作台，已发布"
   }
 ]

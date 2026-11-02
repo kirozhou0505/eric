@@ -1,5 +1,31 @@
 window.MAJOR_UPDATES = [
   {
+    "id": "2026-10-29-new-product-9c3bcaac",
+    "productSlug": null,
+    "date": "2026-10-29",
+    "category": "新产品",
+    "title": "AI 记忆不再\"各自为政\"：腾讯网盘启动内测，要做智能体的共享大脑",
+    "summary": "该事件确认了新的 Agent 产品、独立入口或重大工作模式已经公开发布。",
+    "impact": "为 Agent 市场增加新的产品形态或可用入口，值得纳入竞争跟踪",
+    "sourceUrl": "https://news.aibase.com/zh/news/31942",
+    "sourceLabel": "AIbase基地",
+    "verifiedAt": "2026-11-02",
+    "autoReviewed": true
+  },
+  {
+    "id": "2026-10-28-p02-workbuddy-8001a49c",
+    "productSlug": "p02-workbuddy",
+    "date": "2026-10-28",
+    "category": "核心能力",
+    "title": "腾讯WorkBuddy上线「远程控制」：手机可实时观看并接管电脑桌面，远程操作不消耗Token",
+    "summary": "WorkBuddy（腾讯） 出现新的关键能力变化、明确事件词。自动审核确认其信源和事件强度达到正式时间线的收录标准。",
+    "impact": "新增关键能力并改变产品使用方式",
+    "sourceUrl": "https://news.aibase.com/zh/news/31926",
+    "sourceLabel": "AIbase基地",
+    "verifiedAt": "2026-11-02",
+    "autoReviewed": true
+  },
+  {
     "id": "2026-10-20-p02-workbuddy-b3120848",
     "productSlug": "p02-workbuddy",
     "date": "2026-10-20",
