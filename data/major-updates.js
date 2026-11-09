@@ -1,5 +1,31 @@
 window.MAJOR_UPDATES = [
   {
+    "id": "2026-11-06-new-product-f7ee46cb",
+    "productSlug": null,
+    "date": "2026-11-06",
+    "category": "跨端入口",
+    "title": "月之暗面放大招！Kimi Hosted Agents 正式发布",
+    "summary": "该事件确认了新的 Agent 产品、独立入口或重大工作模式已经公开发布。",
+    "impact": "为 Agent 市场增加新的产品形态或可用入口，值得纳入竞争跟踪",
+    "sourceUrl": "https://news.aibase.com/zh/news/32142",
+    "sourceLabel": "AIbase基地",
+    "verifiedAt": "2026-11-09",
+    "autoReviewed": true
+  },
+  {
+    "id": "2026-11-03-new-product-55e78c9",
+    "productSlug": null,
+    "date": "2026-11-03",
+    "category": "新产品",
+    "title": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，全新发布KYA方案",
+    "summary": "该事件确认了新的 Agent 产品、独立入口或重大工作模式已经公开发布。",
+    "impact": "为 Agent 市场增加新的产品形态或可用入口，值得纳入竞争跟踪",
+    "sourceUrl": "https://news.aibase.com/zh/news/32038",
+    "sourceLabel": "AIbase基地",
+    "verifiedAt": "2026-11-09",
+    "autoReviewed": true
+  },
+  {
     "id": "2026-10-29-new-product-9c3bcaac",
     "productSlug": null,
     "date": "2026-10-29",

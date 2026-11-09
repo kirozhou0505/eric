@@ -6,7 +6,7 @@ window.PRODUCT_VISUALS = {
   },
   "p02-workbuddy": {
     "icon": "assets/product-icons/p02-workbuddy.svg",
-    "source": "https://download.codebuddy.cn/web/website/ef3f61071769c4eb251eaf348beccaa512218f3d/assets/logo.svg",
+    "source": "https://assets.workbuddy.cn/web/workbuddy/05fd33c3609bc9cf5ae1fc387a142a2ad0fab64e/assets/logo.svg",
     "status": "collected"
   },
   "p03-ai": {
@@ -151,7 +151,7 @@ window.PRODUCT_VISUALS = {
   },
   "p28-nemoclaw-nvidia": {
     "icon": "assets/product-icons/p28-nemoclaw-nvidia.svg",
-    "source": "https://docs.nvidia.com/nemoclaw/api/fern-docs/favicon.ico",
+    "source": "https://docs.nvidia.com/nemoclaw/api/fern-docs/favicon.ico?v=8b20c246ad66",
     "status": "collected"
   },
   "p37-ai-claw": {
@@ -241,7 +241,7 @@ window.PRODUCT_VISUALS = {
   },
   "p49-grok-team-bots": {
     "icon": "assets/product-icons/p49-grok-team-bots.png",
-    "source": "https://x.ai/apple-icon.png?apple-icon.167itqrsbgzm4.png?dpl=af359b1b72c8c742f2ffe1a18ddbe4508d7d7af1",
+    "source": "https://x.ai/apple-icon.png?apple-icon.167itqrsbgzm4.png?dpl=c8cde9879172b45e024b98519707caaad447f3c9",
     "status": "collected"
   },
   "p50-wanyouwujie": {

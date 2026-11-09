@@ -1,4 +1,4 @@
-# 2026-11-02 自动审核记录
+# 2026-11-09 自动审核记录
 
 运行时区：Asia/Shanghai
 
@@ -10,26 +10,26 @@
 
 | 产品 | 事件 | 结论 |
 |---|---|---|
-| WorkBuddy（腾讯） | [腾讯WorkBuddy上线「远程控制」：手机可实时观看并接管电脑桌面，远程操作不消耗Token](https://news.aibase.com/zh/news/31926) | 自动审核：可信媒体、产品关联明确且属于重大变化 |
-| 新产品候选 | [AI 记忆不再"各自为政"：腾讯网盘启动内测，要做智能体的共享大脑](https://news.aibase.com/zh/news/31942) | 自动审核：可信媒体确认，且新产品与重大变化信号明确 |
+| 新产品候选 | [月之暗面放大招！Kimi Hosted Agents 正式发布](https://news.aibase.com/zh/news/32142) | 自动审核：可信媒体确认，且新产品与重大变化信号明确 |
+| 新产品候选 | [蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，全新发布KYA方案](https://news.aibase.com/zh/news/32038) | 自动审核：可信媒体确认，且新产品与重大变化信号明确 |
 
 ## 自动暂缓
 
 | 产品 | 事件 | 结论 |
 |---|---|---|
-| WorkBuddy（腾讯） | [腾讯WorkBuddy正式上线“远程控制”功能](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vWDJwaXVjUzdsNlJRVHpmQXg5Q3BjNkF1N3hmYlBGTG9heDU2UDVqQjJGMmlqaXFjbjYyRmRxMnRVS3k2eC1DSHZWeXZqTjRSNWdvOQ?oc=5) | 自动审核：事件可能相关，但信源或事件强度仍需复核 |
-| WorkBuddy（腾讯） | [腾讯WorkBuddy手机远程控制电脑功能上线，实时显示屏幕内容](https://news.google.com/rss/articles/CBMiYEFVX3lxTE81UktrRnhlZG96cGJjVGdTUGw3S204Z3VwNVRYNWlDTkV2NXRRUWIwVy16TzBnNkhzRDl5ZlBvS1JSbFZvX1cwRHVNdEtHNHFxeDVHUFVPZWU0aXk0eHRGUw?oc=5) | 自动审核：事件可能相关，但信源或事件强度仍需复核 |
-| WorkBuddy（腾讯） | [消息称腾讯WorkBuddy开放平台内测Skill变现功能，开发者可自主定价](https://news.aibase.com/zh/news/31958) | 自动审核：事件可能相关，但信源或事件强度仍需复核 |
-| Codex桌面版（Open AI） | [甲骨文把 ChatGPT 和 Codex 塞进自家应用，数据库从此能听懂人话](https://news.aibase.com/zh/news/31908) | 自动审核：事件可能相关，但信源或事件强度仍需复核 |
-| 新产品候选 | [海亮科技发布HaiMate：懂教师的AI工作台](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SM1dpbGNOSDJIS1piNW40YmZFZ1NSY0p0YVByMWlwZjRpbHFzd2pEU0ItcW9tSlBwQW13ZjRjSXM5OEhQalNhVU1EXzd3ejAtZVY0QlhTWlBOM2N5VEhPRk93?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [海亮科技正式推出教师专属AI工作台HaiMate](https://news.google.com/rss/articles/CBMia0FVX3lxTFBJMU94SlJraFV5dDNDVEwxbHp4blloZlRBN0djQ2Z0THlWOUFRVE5TaWdCZnVydzU5WlU4UmhwYkthNG5VcmpVdnBtM0k4dXdrMEg0eS1xZFRjUTFlSi1jUVFRUVhKVWVDYWt3?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [海亮科技发布HaiMate，打造教师专属一站式AI工作台](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY2NWSWJrZE4yaEdQU19Tem5jaEpIY0o0ZVl3YmppN3JmNWRRZzVwLWpGUzlyLUpIYzM2ckNQTVZvRW05RTRqZnNzbFdvSy0tcDZMUGlZQVM3ZkZnb0hGZ3MxdzlhVUwxdGFKcFFEOFZ2eHhlZmxWLVZEU0NDdHBlcllxZGJNTHZn?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [​海亮科技发布HaiMate：为教师打造一站式AI工作台](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wMWVxVWI2TmhyMEtPNTE2U1pjQnJLdVFZdWxfUlNjemJiUjlwd0g5QW5GWUd2NXJTSk9EYmIyVFdGVEx3dHB2QUZWbWY?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [深兰科技联合华为发布全球首款大模型智能体工作手机Wowoker](https://news.aibase.com/zh/news/31970) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [腾讯发布 Buddy One:打通腾讯文档、会议、网盘与 ima，统一账号与积分池](https://news.aibase.com/zh/news/31951) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
-| 新产品候选 | [腾讯混元Hy4、Hy4flash即将发布，模型能力、思维链效率全面提升](https://news.aibase.com/zh/news/31948) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
-| 新产品候选 | [蚂蚁集团推出能管事的个人AI助理「灵光2.0」](https://mp.weixin.qq.com/s/TOyr5VqXVy_kFLBFzcf6Pg?scene=1) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
-| 新产品候选 | [蚂蚁灵光2.0发布:AI从“任务执行者”走向“事务管理者”](https://news.aibase.com/zh/news/31883) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
+| 新产品候选 | [DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元](https://news.aibase.com/zh/news/32172) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [中国移动发布智能体工作台MobileWork，重塑安全高效的智能工作方式](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zWHkwY2J6dnI3dkpZRzJkUXdmNUxIbUJEb0s1bENaRjI0aFVGYUEyTkJDNDdJZFE0WFV0bkpLTXZmeG92SHRkNllNMEJoMVoxMHc?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪](https://news.aibase.com/zh/news/32128) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
+| 新产品候选 | [老百姓大药房推出自研企业级AI工作台“小丸子工作”](https://news.google.com/rss/articles/CBMicEFVX3lxTFBCTEE5VXJBd0pGTHBfejVWR0RMazBFYngzcVJNdlhlTlI5NEJUU3VHUnQxWW80QzVuSmRURFRKVVhnM3gyQjlCN01KbEFuVnYwNDJlZXpPQUlLZWVoZnBTOGl4R0ZRbnZmd2NYRGRoYVc?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [Kimi Hosted Agents 发布:Harness 运行时转向云端托管](https://news.aibase.com/zh/news/32112) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [豆包工作首次接入第三方模型，首批上线Kimi、智谱与DeepSeek](https://news.aibase.com/zh/news/32104) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
+| 新产品候选 | [月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜](https://news.aibase.com/zh/news/32100) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
+| 新产品候选 | [灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接](https://news.aibase.com/zh/news/32085) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
+| 新产品候选 | [阿里云发布AI投研工作台Qovest:99元/月开放个人邀测](https://news.aibase.com/zh/news/32069) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发](https://news.aibase.com/zh/news/32055) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作](https://news.aibase.com/zh/news/32049) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
+| 新产品候选 | [商汤推出多模态智能体模型 SenseNova 6.8 Flash](https://mp.weixin.qq.com/s/pub1zJcaLGKYsTht8jOipg) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [腾讯地图推出桌面端 AI 地图工作台 LBSwork](https://mp.weixin.qq.com/s/oXKKPy9tSFGoggAxeqgZ9w) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
 
 ## 自动拒绝
 

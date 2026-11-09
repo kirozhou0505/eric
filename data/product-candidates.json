@@ -1,5 +1,303 @@
 [
   {
+    "id": "new-product-fdf08ed4",
+    "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
+    "sourceUrl": "https://news.aibase.com/zh/news/32172",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-11-09T02:25:40.000Z",
+    "discoveredAt": "2026-11-09T09:40:38.621Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-09",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-4c69d5d6",
+    "title": "中国移动发布智能体工作台MobileWork，重塑安全高效的智能工作方式 - www.icloudnews.net",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zWHkwY2J6dnI3dkpZRzJkUXdmNUxIbUJEb0s1bENaRjI0aFVGYUEyTkJDNDdJZFE0WFV0bkpLTXZmeG92SHRkNllNMEJoMVoxMHc?oc=5",
+    "sourceLabel": "www.icloudnews.net",
+    "sourceType": "media",
+    "publishedAt": "2026-11-08T14:55:00.000Z",
+    "discoveredAt": "2026-11-09T09:39:28.914Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-09",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-f7ee46cb",
+    "title": "月之暗面放大招！Kimi Hosted Agents 正式发布",
+    "sourceUrl": "https://news.aibase.com/zh/news/32142",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-11-06T03:33:02.000Z",
+    "discoveredAt": "2026-11-09T09:40:38.624Z",
+    "status": "accepted_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 8,
+    "reviewedAt": "2026-11-09",
+    "reviewReason": "自动审核：可信媒体确认，且新产品与重大变化信号明确"
+  },
+  {
+    "id": "new-product-f5fd4e2f",
+    "title": "Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪",
+    "sourceUrl": "https://news.aibase.com/zh/news/32128",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-11-06T01:00:08.000Z",
+    "discoveredAt": "2026-11-09T09:40:38.625Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-09",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
+    "id": "new-product-91f75e38",
+    "title": "老百姓大药房推出自研企业级AI工作台“小丸子工作” - 手机新浪网",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCTEE5VXJBd0pGTHBfejVWR0RMazBFYngzcVJNdlhlTlI5NEJUU3VHUnQxWW80QzVuSmRURFRKVVhnM3gyQjlCN01KbEFuVnYwNDJlZXpPQUlLZWVoZnBTOGl4R0ZRbnZmd2NYRGRoYVc?oc=5",
+    "sourceLabel": "手机新浪网",
+    "sourceType": "media",
+    "publishedAt": "2026-11-05T13:02:00.000Z",
+    "discoveredAt": "2026-11-09T09:39:28.914Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-09",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-6df5bc52",
+    "title": "Kimi Hosted Agents 发布:Harness 运行时转向云端托管",
+    "sourceUrl": "https://news.aibase.com/zh/news/32112",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-11-05T03:35:33.000Z",
+    "discoveredAt": "2026-11-09T09:40:38.628Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-09",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-6df7fae9",
+    "title": "豆包工作首次接入第三方模型，首批上线Kimi、智谱与DeepSeek",
+    "sourceUrl": "https://news.aibase.com/zh/news/32104",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-11-05T02:30:30.000Z",
+    "discoveredAt": "2026-11-09T09:40:38.629Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-09",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
+    "id": "new-product-71f80135",
+    "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+    "sourceUrl": "https://news.aibase.com/zh/news/32100",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-11-05T01:39:41.000Z",
+    "discoveredAt": "2026-11-09T09:40:38.629Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 0,
+    "reviewedAt": "2026-11-09",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
+    "id": "new-product-4d27c9",
+    "title": "灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接",
+    "sourceUrl": "https://news.aibase.com/zh/news/32085",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-11-04T08:12:11.000Z",
+    "discoveredAt": "2026-11-09T09:40:38.631Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 0,
+    "reviewedAt": "2026-11-09",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
+    "id": "new-product-886602c7",
+    "title": "阿里云发布AI投研工作台Qovest:99元/月开放个人邀测",
+    "sourceUrl": "https://news.aibase.com/zh/news/32069",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-11-04T02:15:10.000Z",
+    "discoveredAt": "2026-11-09T09:40:38.633Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-09",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-8c6cc4d8",
+    "title": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
+    "sourceUrl": "https://news.aibase.com/zh/news/32055",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-11-03T08:23:37.000Z",
+    "discoveredAt": "2026-11-09T09:40:38.634Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-09",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-846a79a9",
+    "title": "商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作",
+    "sourceUrl": "https://news.aibase.com/zh/news/32049",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-11-03T07:22:12.000Z",
+    "discoveredAt": "2026-11-09T09:40:38.635Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 8,
+    "reviewedAt": "2026-11-09",
+    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
+  },
+  {
+    "id": "new-product-55e78c9",
+    "title": "蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，全新发布KYA方案",
+    "sourceUrl": "https://news.aibase.com/zh/news/32038",
+    "sourceLabel": "AIbase基地",
+    "sourceType": "media",
+    "discoverySource": "AIBase",
+    "publishedAt": "2026-11-03T01:56:16.000Z",
+    "discoveredAt": "2026-11-09T09:40:38.636Z",
+    "status": "accepted_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 8,
+    "reviewedAt": "2026-11-09",
+    "reviewReason": "自动审核：可信媒体确认，且新产品与重大变化信号明确"
+  },
+  {
+    "id": "new-product-8c46df0c",
+    "title": "商汤推出多模态智能体模型 SenseNova 6.8 Flash",
+    "sourceUrl": "https://mp.weixin.qq.com/s/pub1zJcaLGKYsTht8jOipg",
+    "sourceLabel": "AI工具集 / 商汤科技SenseTime",
+    "sourceType": "media",
+    "discoverySource": "AI工具集",
+    "publishedAt": "2026-11-03T00:00:00.000Z",
+    "discoveredAt": "2026-11-09T09:40:38.637Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-09",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
+    "id": "new-product-752160ab",
+    "title": "腾讯地图推出桌面端 AI 地图工作台 LBSwork",
+    "sourceUrl": "https://mp.weixin.qq.com/s/oXKKPy9tSFGoggAxeqgZ9w",
+    "sourceLabel": "AI工具集 / 腾讯地图",
+    "sourceType": "media",
+    "discoverySource": "AI工具集",
+    "publishedAt": "2026-11-03T00:00:00.000Z",
+    "discoveredAt": "2026-11-09T09:40:38.637Z",
+    "status": "deferred_auto",
+    "reviewChecklist": [
+      "确认它是独立产品而非普通功能",
+      "确认属于研究范围",
+      "找到官方一手信源",
+      "补充厂商、类型与官网"
+    ],
+    "score": 2,
+    "reviewedAt": "2026-11-09",
+    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
+  },
+  {
     "id": "new-product-4ca4378c",
     "title": "海亮科技发布HaiMate：懂教师的AI工作台 - 证券之星",
     "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SM1dpbGNOSDJIS1piNW40YmZFZ1NSY0p0YVByMWlwZjRpbHFzd2pEU0ItcW9tSlBwQW13ZjRjSXM5OEhQalNhVU1EXzd3ejAtZVY0QlhTWlBOM2N5VEhPRk93?oc=5",
@@ -1906,163 +2204,5 @@
     "score": 2,
     "reviewedAt": "2026-09-14",
     "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-f3666e41",
-    "title": "腾讯文档“AI工作台”上线 - Moomoo",
-    "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3RXJnZ01qS3hHUmtObnVleG1xRTllTmZ5eW9oaTZCTzg1b2hmdFpsOHV1TVdFVHl4TF9iWEJONWpLX0RsckdOQXdSNVFUZmtRTEJYdXgxeEVWdw?oc=5",
-    "sourceLabel": "Moomoo",
-    "sourceType": "media",
-    "publishedAt": "2026-09-08T04:16:00.000Z",
-    "discoveredAt": "2026-09-14T07:51:15.119Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-09-14",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-ed95ce3e",
-    "title": "火山引擎内测 AI 版权平台，Seedance 从“防侵权”转向“IP 商业化”",
-    "sourceUrl": "https://news.aibase.com/zh/news/30868",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-09-07T05:55:53.000Z",
-    "discoveredAt": "2026-09-07T07:18:03.000Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 5,
-    "reviewedAt": "2026-09-07",
-    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
-  },
-  {
-    "id": "new-product-e895c65f",
-    "title": "讯飞星火 X2.5 正式发布：MoE 架构 293B，代码与智能体能力大幅提升",
-    "sourceUrl": "https://news.aibase.com/zh/news/30867",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-09-07T05:43:28.000Z",
-    "discoveredAt": "2026-09-07T07:18:03.001Z",
-    "status": "accepted_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 8,
-    "reviewedAt": "2026-09-07",
-    "reviewReason": "自动审核：可信媒体确认，且新产品与重大变化信号明确"
-  },
-  {
-    "id": "new-product-e695c339",
-    "title": "努比亚NaviX Ultra定档9月16日发布，搭载豆包手机助手",
-    "sourceUrl": "https://news.aibase.com/zh/news/30861",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-09-07T02:34:57.000Z",
-    "discoveredAt": "2026-09-07T07:18:03.002Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-09-07",
-    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
-  },
-  {
-    "id": "new-product-65f5b50d",
-    "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
-    "sourceUrl": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-    "sourceLabel": "GitHub Blog",
-    "sourceType": "media",
-    "publishedAt": "2026-09-04T16:04:14.000Z",
-    "discoveredAt": "2026-09-07T07:17:28.807Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-09-07",
-    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
-  },
-  {
-    "id": "new-product-758e5591",
-    "title": "阿里千问上线首月用户破3000万：开源上下文底座，打造企业级Agent新范式",
-    "sourceUrl": "https://news.aibase.com/zh/news/30832",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-09-04T03:04:02.000Z",
-    "discoveredAt": "2026-09-07T07:18:03.007Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-09-07",
-    "reviewReason": "自动审核：产品信号明确，但仍需补充一手或可信媒体信源"
-  },
-  {
-    "id": "new-product-6a8c05a9",
-    "title": "微软Copilot Studio推出人工审批新功能，全面强化AI代理操作管控",
-    "sourceUrl": "https://news.aibase.com/zh/news/30825",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-09-04T01:33:12.000Z",
-    "discoveredAt": "2026-09-07T07:18:03.009Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 6,
-    "reviewedAt": "2026-09-07",
-    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
-  },
-  {
-    "id": "new-product-dbe5a19b",
-    "title": "Meta王牌AI大模型Muse Spark 1.3发布：编程能力硬刚GPT-5.6 Sol",
-    "sourceUrl": "https://news.aibase.com/zh/news/30786",
-    "sourceLabel": "AIbase基地",
-    "sourceType": "media",
-    "discoverySource": "AIBase",
-    "publishedAt": "2026-09-03T00:54:48.000Z",
-    "discoveredAt": "2026-09-07T07:18:03.015Z",
-    "status": "deferred_auto",
-    "reviewChecklist": [
-      "确认它是独立产品而非普通功能",
-      "确认属于研究范围",
-      "找到官方一手信源",
-      "补充厂商、类型与官网"
-    ],
-    "score": 2,
-    "reviewedAt": "2026-09-07",
-    "reviewReason": "自动审核：尚未形成明确的新 Agent 产品或独立入口信号"
   }
 ]
