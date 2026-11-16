@@ -1,35 +1,33 @@
-# 2026-11-09 自动审核记录
+# 2026-11-16 自动审核记录
 
 运行时区：Asia/Shanghai
 
 - 自动正式收录：2 条
-- 自动暂缓：13 条
+- 自动暂缓：11 条
 - 自动拒绝：0 条
 
 ## 自动正式收录
 
 | 产品 | 事件 | 结论 |
 |---|---|---|
-| 新产品候选 | [月之暗面放大招！Kimi Hosted Agents 正式发布](https://news.aibase.com/zh/news/32142) | 自动审核：可信媒体确认，且新产品与重大变化信号明确 |
-| 新产品候选 | [蚂蚁数科携「智能体超级工厂」亮相香港金融科技周，全新发布KYA方案](https://news.aibase.com/zh/news/32038) | 自动审核：可信媒体确认，且新产品与重大变化信号明确 |
+| 新产品候选 | [谷歌旗舰 Gemini 4 Carbon 正式发布：多智能体协作一夜造游戏，网络安全与科学推理迎来质的飞跃](https://news.aibase.com/zh/news/32223) | 自动审核：可信媒体确认，且新产品与重大变化信号明确 |
+| 新产品候选 | [你的游戏“最强搭子”上线:腾讯首款AI游戏陪伴Agent鹅次元”内测开启](https://news.aibase.com/zh/news/32199) | 自动审核：可信媒体确认，且新产品与重大变化信号明确 |
 
 ## 自动暂缓
 
 | 产品 | 事件 | 结论 |
 |---|---|---|
-| 新产品候选 | [DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元](https://news.aibase.com/zh/news/32172) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [中国移动发布智能体工作台MobileWork，重塑安全高效的智能工作方式](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zWHkwY2J6dnI3dkpZRzJkUXdmNUxIbUJEb0s1bENaRjI0aFVGYUEyTkJDNDdJZFE0WFV0bkpLTXZmeG92SHRkNllNMEJoMVoxMHc?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [Anthropic 推出 Claude 个人理财功能，支持智能消费分析与账单追踪](https://news.aibase.com/zh/news/32128) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
-| 新产品候选 | [老百姓大药房推出自研企业级AI工作台“小丸子工作”](https://news.google.com/rss/articles/CBMicEFVX3lxTFBCTEE5VXJBd0pGTHBfejVWR0RMazBFYngzcVJNdlhlTlI5NEJUU3VHUnQxWW80QzVuSmRURFRKVVhnM3gyQjlCN01KbEFuVnYwNDJlZXpPQUlLZWVoZnBTOGl4R0ZRbnZmd2NYRGRoYVc?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [Kimi Hosted Agents 发布:Harness 运行时转向云端托管](https://news.aibase.com/zh/news/32112) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [豆包工作首次接入第三方模型，首批上线Kimi、智谱与DeepSeek](https://news.aibase.com/zh/news/32104) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
-| 新产品候选 | [月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜](https://news.aibase.com/zh/news/32100) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
-| 新产品候选 | [灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接](https://news.aibase.com/zh/news/32085) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
-| 新产品候选 | [阿里云发布AI投研工作台Qovest:99元/月开放个人邀测](https://news.aibase.com/zh/news/32069) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发](https://news.aibase.com/zh/news/32055) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [商汤正式发布日日新SenseNova 6.8 Flash，主打真实任务执行与设计协作](https://news.aibase.com/zh/news/32049) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
-| 新产品候选 | [商汤推出多模态智能体模型 SenseNova 6.8 Flash](https://mp.weixin.qq.com/s/pub1zJcaLGKYsTht8jOipg) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
-| 新产品候选 | [腾讯地图推出桌面端 AI 地图工作台 LBSwork](https://mp.weixin.qq.com/s/oXKKPy9tSFGoggAxeqgZ9w) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| Codex桌面版（Open AI） | [Agent领导力大考！Einsia AI发布WorkflowArena，行业首个多智能体编排基准](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGdLRHVpUm9xb25OR3lNLTB2M1o0bU5qdnpuamJDa3lRWEpSS1pySHBQUG9SUUNSVUlrYkhuek5UMU8tRVJQeE1oV3BuT3R2dklWV3F1QnJsVmJDOXgyWDdUN3E5NVZySkxnWTM4aDAxQTNlMGVNLTVoeG50ZENFSnloYXBVNlJK?oc=5) | 自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝 |
+| 新产品候选 | [谷歌重磅发布 Gemini 4 Hydrogen：主打高速编程与智能体任务，性能实现跨越式升级](https://news.aibase.com/zh/news/32298) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [Meta开放Muse AI电话代办功能，面向所有付费用户推出](https://news.aibase.com/zh/news/32294) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
+| 新产品候选 | [Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？](https://news.aibase.com/zh/news/32270) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [阿里推出全新一代大模型Qwen4-Max 预览版](https://mp.weixin.qq.com/s/GnKYDoQgi5PW-rxVeri9_Q?scene=1) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
+| 新产品候选 | [焦点科技：AI麦可升级为外贸企业AI工作台 推出独立桌面端](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRaGh6Y3locnJvLTQ0U0ttb1FhNnVidUM4eFB5TlVOanNObjVUWUtRQUl1RzVqaDMzQmJDakFoVkJVd3dCS3JhYURyZDZJYkQ2Z2hqY2FhX2U1V21Nd2pzcg?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [焦点科技：AI麦可升级为外贸企业AI工作台 推出独立桌面端](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRc0FQZ2hncXBEMHQwXzNOWEdhSmRlNTJYWE5vNUg4dVRPQjgxb3Btc3c4Ym8td0JEWnhTMHhGOV9mVWl0QlhLN2c1NkM5THVVcWRQQ1VIN3dPdWMy?oc=5) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
+| 新产品候选 | [千问预告Qwen4:Qwen4-Max预览版上线阿里Token Plan，限时最低1折](https://news.aibase.com/zh/news/32235) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
+| 新产品候选 | [谷歌正式开放 Gemini 4 Carbon 模型](https://mp.weixin.qq.com/s/9b1_lBtr62ZaQUurGKl5DA) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
+| 新产品候选 | [基元律动发布NeoHorse-1.5-Flash Preview，开放限量内测](https://news.aibase.com/zh/news/32218) | 自动审核：尚未形成明确的新 Agent 产品或独立入口信号 |
+| 新产品候选 | [史上最小多模态模型 Muse Ember 发布，1M 超长上下文专攻智能体高频任务](https://news.aibase.com/zh/news/32209) | 自动审核：产品信号明确，但仍需补充一手或可信媒体信源 |
 
 ## 自动拒绝
 

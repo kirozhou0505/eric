@@ -1,5 +1,31 @@
 window.MAJOR_UPDATES = [
   {
+    "id": "2026-11-11-new-product-1ff95b13",
+    "productSlug": null,
+    "date": "2026-11-11",
+    "category": "新产品",
+    "title": "谷歌旗舰 Gemini 4 Carbon 正式发布：多智能体协作一夜造游戏，网络安全与科学推理迎来质的飞跃",
+    "summary": "该事件确认了新的 Agent 产品、独立入口或重大工作模式已经公开发布。",
+    "impact": "为 Agent 市场增加新的产品形态或可用入口，值得纳入竞争跟踪",
+    "sourceUrl": "https://news.aibase.com/zh/news/32223",
+    "sourceLabel": "AIbase基地",
+    "verifiedAt": "2026-11-16",
+    "autoReviewed": true
+  },
+  {
+    "id": "2026-11-10-new-product-f4e1761f",
+    "productSlug": null,
+    "date": "2026-11-10",
+    "category": "新产品",
+    "title": "你的游戏“最强搭子”上线:腾讯首款AI游戏陪伴Agent鹅次元”内测开启",
+    "summary": "该事件确认了新的 Agent 产品、独立入口或重大工作模式已经公开发布。",
+    "impact": "为 Agent 市场增加新的产品形态或可用入口，值得纳入竞争跟踪",
+    "sourceUrl": "https://news.aibase.com/zh/news/32199",
+    "sourceLabel": "AIbase基地",
+    "verifiedAt": "2026-11-16",
+    "autoReviewed": true
+  },
+  {
     "id": "2026-11-06-new-product-f7ee46cb",
     "productSlug": null,
     "date": "2026-11-06",

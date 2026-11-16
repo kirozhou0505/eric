@@ -719,6 +719,25 @@
     "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
   },
   {
+    "id": "p12-codex-open-ai-269d36ea",
+    "productSlug": "p12-codex-open-ai",
+    "productName": "Codex桌面版（Open AI）",
+    "title": "Agent领导力大考！Einsia AI发布WorkflowArena，行业首个多智能体编排基准 - Sohu",
+    "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGdLRHVpUm9xb25OR3lNLTB2M1o0bU5qdnpuamJDa3lRWEpSS1pySHBQUG9SUUNSVUlrYkhuek5UMU8tRVJQeE1oV3BuT3R2dklWV3F1QnJsVmJDOXgyWDdUN3E5NVZySkxnWTM4aDAxQTNlMGVNLTVoeG50ZENFSnloYXBVNlJK?oc=5",
+    "sourceLabel": "Sohu",
+    "sourceType": "media",
+    "publishedAt": "2026-11-10T11:54:40.000Z",
+    "discoveredAt": "2026-11-16T09:30:42.223Z",
+    "score": 6,
+    "reasons": [
+      "关键能力变化 +4",
+      "明确事件词 +2"
+    ],
+    "status": "deferred_auto",
+    "reviewedAt": "2026-11-16",
+    "reviewReason": "自动审核：产品关联度不足，保留候选等待复核，不再直接拒绝"
+  },
+  {
     "id": "p02-workbuddy-8001a49c",
     "productSlug": "p02-workbuddy",
     "productName": "WorkBuddy（腾讯）",
